@@ -90,7 +90,7 @@ Supersports 1,http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-$c_start#香港$c_end
+$c_start香港$c_end
 翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8,rtmp://125.227.67.184:1935/live/ViuTVSix 
 TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
