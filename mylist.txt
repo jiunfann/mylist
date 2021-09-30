@@ -106,8 +106,6 @@ RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8#http://livetv.dnsfor.me
 RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 ViU TV,http://cdn.hkdtmb.com/hls/99/index.m3u8
 ViU TV 6,http://cdn.hkdtmb.com/hls/96/index.m3u8
-天映经典台, https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktyjd
-天映频道, https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
