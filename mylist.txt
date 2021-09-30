@@ -31,10 +31,10 @@ $c_start卫视$c_end
 湖北卫视 ,http://112.25.48.68/live/program/live/hbwshd/4000000/mnf.m3u8
 黑龙江卫视,http://112.25.48.68/live/program/live/hljwshd/4000000/mnf.m3u8
 $c_start台湾$c_end
-台视,rtmp://59.124.75.136/sat/tv071,http://50.7.61.148:30080/Entry/ttv
-中视,rtmp://59.124.75.136/sat/tv091,http://50.7.61.148:30080/Entry/ctv
-民视,rtmp://59.124.75.136/sat/tv05,http://50.7.61.147:30080/Entry/ftv
-华视,rtmp://59.124.75.136/sat/tv111,http://50.7.61.147:30080/Entry/cts
+台视,rtmp://59.124.75.136/sat/tv071#http://50.7.61.148:30080/Entry/ttv
+中视,rtmp://59.124.75.136/sat/tv091#http://50.7.61.148:30080/Entry/ctv
+民视,rtmp://59.124.75.136/sat/tv05#http://50.7.61.147:30080/Entry/ftv
+华视,rtmp://59.124.75.136/sat/tv111#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 东森超视,rtmp://59.124.75.136/sat/tv421
 八大第一,p8p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
@@ -91,10 +91,10 @@ Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 $c_start香港$c_end
-翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
-J2,http://cdn.hkdtmb.com/hls/82/index.m3u8,rtmp://125.227.67.184:1935/live/ViuTVSix 
+翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8#https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
+J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
 TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
-无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8,http://livetv.dnsfor.me/channel.10.m3u8
+无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
 无线财经资讯台,http://cdn.hkdtmb.com/hls/85/index.m3u8
 有线新闻台,http://livetv.dnsfor.me/channel.5.m3u8
 有线财经新闻台,http://livetv.dnsfor.me/channel.6.m3u8
@@ -102,7 +102,7 @@ TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
 NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
 NOW体育台,http://livetv.dnsfor.me/channel.12.m3u8
-RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8,http://livetv.dnsfor.me/channel.1.m3u8
+RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
 RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 ViU TV,http://cdn.hkdtmb.com/hls/99/index.m3u8
 ViU TV 6,http://cdn.hkdtmb.com/hls/96/index.m3u8
