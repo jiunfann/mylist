@@ -31,10 +31,10 @@ $c_start卫视$c_end
 湖北卫视 ,http://112.25.48.68/live/program/live/hbwshd/4000000/mnf.m3u8
 黑龙江卫视,http://112.25.48.68/live/program/live/hljwshd/4000000/mnf.m3u8
 $c_start台湾$c_end
-台视,http://50.7.61.148:30080/Entry/ttv,rtmp://59.124.75.136/sat/tv071
-中视,http://50.7.61.148:30080/Entry/ctv,rtmp://59.124.75.136/sat/tv091
-民视,http://50.7.61.147:30080/Entry/ftv,rtmp://59.124.75.136/sat/tv05
-华视,http://50.7.61.147:30080/Entry/cts,rtmp://59.124.75.136/sat/tv111
+台视,rtmp://59.124.75.136/sat/tv071,http://50.7.61.148:30080/Entry/ttv
+中视,rtmp://59.124.75.136/sat/tv091,http://50.7.61.148:30080/Entry/ctv
+民视,rtmp://59.124.75.136/sat/tv05,http://50.7.61.147:30080/Entry/ftv
+华视,rtmp://59.124.75.136/sat/tv111,http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 东森超视,rtmp://59.124.75.136/sat/tv421
 八大第一,p8p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
@@ -71,21 +71,21 @@ AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-AOD HD,http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+AOD HD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8 
+天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
 Channel 5,http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
 Channel 8,http://198.16.106.62:8278/streams/d/Channel8HD/playlist.m3u8
-Channel U,http://50.7.222.130:8278/streams/d/ChannelU/playlist.m3u8
+Channel U,http://198.16.106.62:8278/streams/d/ChannelU/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV3,http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
-NTV7,http://50.7.161.82:8278/streams/d/Ntv7_backup/playlist.m3u8
+TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+NTV7,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-RTM Sports HD,http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
-Arena,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Supersports 1,http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
