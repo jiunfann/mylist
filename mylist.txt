@@ -4,7 +4,7 @@ CCTV2,http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8#http://112.2
 CCTV3,http://183.207.255.190/live/program/live/cctv3hd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/cctv3hd/4000000/mnf.m3u8
 CCTV4,http://117.136.154.86/PLTV/88888888/224/3221225501/index.m3u8#http://112.25.48.68/live/program/live/cctv4/1300000/mnf.m3u8
 CCTV5,http://117.136.154.98/PLTV/88888888/224/3221225780/index.m3u8#http://112.25.48.68/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5+,http://117.136.154.98/PLTV/88888888/224/3221225512/index.m3u8#http://112.25.48.68/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8#http://117.136.154.98/PLTV/88888888/224/3221225512/index.m3u8#http://112.25.48.68/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV6,http://183.207.255.190/live/program/live/cctv6hd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/cctv6hd/4000000/mnf.m3u8
 CCTV7,http://117.136.154.68/PLTV/88888888/224/3221225504/index.m3u8#http://112.25.48.68/live/program/live/cctv7/1300000/mnf.m3u8
 CCTV8,http://183.207.255.190/live/program/live/cctv8hd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/cctv8hd/4000000/mnf.m3u8
