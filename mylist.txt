@@ -39,9 +39,9 @@ $c_start台湾$c_end
 华视,rtmp://59.124.75.136/sat/tv111#rtmp://161.202.204.248/sat/tv111#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 东森超视,rtmp://59.124.75.136/sat/tv521#rtmp://161.202.204.248/sat/tv521
-東森綜合,p5p://45.92.126.18:9906/60449d64000d9a930219b4972f368e8b.ts
-八大第一,p8p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-八大綜合,p8p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+東森綜合,http://43.128.9.168/jjtv.php?id=133#p5p://45.92.126.18:9906/60449d64000d9a930219b4972f368e8b.ts
+八大第一,http://43.128.9.168/jjtv.php?id=125#p8p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
+八大綜合,http://43.128.9.168/jjtv.php?id=126#p8p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -53,8 +53,8 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中視新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
-國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
-動物星球,p5p://45.92.126.18:9906/60440362000e75bc09a007eeaa0519c7.ts
+國家野生,http://43.128.9.168/jjtv.php?id=89#p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
+動物星球,http://43.128.9.168/jjtv.php?id=90#p5p://45.92.126.18:9906/60440362000e75bc09a007eeaa0519c7.ts
 Sport 1,rtmp://59.124.75.136/sat/tv731#rtmp://161.202.204.248/sat/tv731
 Sport 2,rtmp://59.124.75.136/sat/tv741#rtmp://161.202.204.248/sat/tv741
 Sport 3,rtmp://59.124.75.136/sat/md011#rtmp://161.202.204.248/sat/md011
@@ -62,8 +62,8 @@ Sport 4,rtmp://59.124.75.136/sat/md021#rtmp://161.202.204.248/sat/md021
 Sport 5,rtmp://59.124.75.136/sat/md031#rtmp://161.202.204.248/sat/md031
 Sport 6,rtmp://59.124.75.136/sat/md041#rtmp://161.202.204.248/sat/md041
 Sport 7,rtmp://59.124.75.136/sat/md051#rtmp://161.202.204.248/sat/md051
-愛爾達體育1台,p8p://45.92.126.18:9906/6044394f000bdf980092c21d614c13c6.ts
-愛爾達體育2台,p8p://fccs.123178.top:9906/60443b320005c061009a1f44d1793932.ts
+愛爾達體育1台,http://43.128.9.168/jjtv.php?id=106#p8p://45.92.126.18:9906/6044394f000bdf980092c21d614c13c6.ts
+愛爾達體育2台,http://43.128.9.168/jjtv.php?id=107#p8p://fccs.123178.top:9906/60443b320005c061009a1f44d1793932.ts
 愛爾達體育3台,p8p://fccs.123178.top:9906/610cc7a400025e110a1a334e80dad40f
 Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
 Eleven運動台2,p5p://45.92.126.18:9906/60447228000e0e420170d2547df9954a.ts
@@ -92,10 +92,13 @@ TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-Supersports 1,http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-Supersports 2,http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-Supersports 3,http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-Supersports 4,http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+Supersports 1,http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+Supersports 2,http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+Supersports 3,http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+Supersports 4,http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+Foxsports 1 HD,http://43.128.9.168/jjtv.php?id=112
+Foxsports 2 HD,http://43.128.9.168/jjtv.php?id=113
+Foxsports 3 HD,http://43.128.9.168/jjtv.php?id=114
 $c_start香港$c_end
 翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8#https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
