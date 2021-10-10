@@ -42,8 +42,8 @@ $c_start台湾$c_end
 東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
 八大第一,http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free
 八大綜合,http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free#p8p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+三立台灣,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
