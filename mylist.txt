@@ -53,8 +53,6 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中視新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
-國家野生,p5p://fccs.123178.top:9906/604401050005fe790996ca7b4ed24991.ts
-動物星球,p5p://45.92.126.18:9906/60440362000e75bc09a007eeaa0519c7.ts
 Sport 1,rtmp://59.124.75.136/sat/tv731#rtmp://161.202.204.248/sat/tv731
 Sport 2,rtmp://59.124.75.136/sat/tv741#rtmp://161.202.204.248/sat/tv741
 Sport 3,rtmp://59.124.75.136/sat/md011#rtmp://161.202.204.248/sat/md011
@@ -78,7 +76,8 @@ TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 AOD HD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8 
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-AnimalPlanet,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 Channel 5,http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
 Channel 8,http://198.16.106.62:8278/streams/d/Channel8HD/playlist.m3u8
 Channel U,http://198.16.106.62:8278/streams/d/ChannelU/playlist.m3u8
