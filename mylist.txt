@@ -41,7 +41,7 @@ $c_start台湾$c_end
 東森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free#rtmp://59.124.75.136/sat/tv521#rtmp://161.202.204.248/sat/tv521
 東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
 八大第一,http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free
-八大綜合,http://sytv.xtvants.fun/mytv.php?id=bdzh&token=free&user=free#p8p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+八大綜合,http://api.hstv.me:8080/hstv/hstv2021/245#p8p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
 三立都會,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -101,8 +101,8 @@ J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#rtmp://125.227.67.184:1935/live/ViuTV
 TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
 无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://ye23.win/iptv/tvb.php?id=1#http://livetv.dnsfor.me/channel.10.m3u8
 无线财经资讯台,http://cdn.hkdtmb.com/hls/85/index.m3u8#http://ye23.win/iptv/tvb.php?id=2
-有线新闻,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
-有线603,https://p2.weizan.cn/1646497941/983713851238420990/live.m3u8
+有线新闻,http://api.hstv.me:8080/hstv/hstv2021/4#https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
+有线财经,http://api.hstv.me:8080/hstv/hstv2021/12
 NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
 NOW体育台,http://livetv.dnsfor.me/channel.12.m3u8
