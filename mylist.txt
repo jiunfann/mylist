@@ -40,7 +40,6 @@ $c_start台湾$c_end
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 東森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free#rtmp://59.124.75.136/sat/tv521#rtmp://161.202.204.248/sat/tv521
 東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
-八大第一,http://sytv.xtvants.fun/mytv.php?id=bddy&token=free&user=free
 八大綜合,http://api.hstv.me:8080/hstv/hstv2021/245#p8p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
 三立都會,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -60,15 +59,8 @@ Sport 4,rtmp://59.124.75.136/sat/md021#rtmp://161.202.204.248/sat/md021
 Sport 5,rtmp://59.124.75.136/sat/md031#rtmp://161.202.204.248/sat/md031
 Sport 6,rtmp://59.124.75.136/sat/md041#rtmp://161.202.204.248/sat/md041
 Sport 7,rtmp://59.124.75.136/sat/md051#rtmp://161.202.204.248/sat/md051
-愛爾達體育1台,http://sytv.xtvants.fun/mytv.php?id=aedty&token=free&user=free
-愛爾達體育2台,http://sytv.xtvants.fun/mytv.php?id=aedty2&token=free&user=free
-愛爾達體育3台,http://sytv.xtvants.fun/mytv.php?id=aedty3&token=free&user=free
-Eleven運動台1,p5p://fccs.123178.top:9906/60446a54000b4ef801523d80af6dda12.ts
-Eleven運動台2,p5p://45.92.126.18:9906/60447228000e0e420170d2547df9954a.ts
 $c_start新马$c_end
 AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -78,9 +70,6 @@ AOD HD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-Channel 5,http://198.16.106.62:8278/streams/d/Channel5HD/playlist.m3u8
-Channel 8,http://198.16.106.62:8278/streams/d/Channel8HD/playlist.m3u8
-Channel U,http://198.16.106.62:8278/streams/d/ChannelU/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
