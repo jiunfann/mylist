@@ -61,7 +61,6 @@ Sport 6,rtmp://59.124.75.136/sat/md041#rtmp://161.202.204.248/sat/md041
 Sport 7,rtmp://59.124.75.136/sat/md051#rtmp://161.202.204.248/sat/md051
 $c_start新马$c_end
 AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-欢喜台,p8p://fccs.123178.top:9906/5f34c9c00007f8c936ad45568b5ad1ef.ts#p8p://fccs.123178.top:9906/5ecfb90800040601969837e0aa1efa5c.ts#p8p://0198.02686.cc:16871/5f34c9c00007f8c936ad45568b5ad1ef.ts#p8p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
