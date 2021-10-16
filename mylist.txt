@@ -33,14 +33,13 @@ $c_start卫视$c_end
 湖北卫视,http://117.136.154.68/PLTV/88888888/224/3221225532/index.m3u8#http://112.25.48.68/live/program/live/hbwshd/4000000/mnf.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
 黑龙江卫视,http://117.136.154.98/PLTV/88888888/224/3221225670/index.m3u8#http://112.25.48.68/live/program/live/hljwshd/4000000/mnf.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
 $c_start台湾$c_end
-台视,rtmp://59.124.75.136/sat/tv071#http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free#rtmp://161.202.204.248/sat/tv071#http://50.7.61.148:30080/Entry/ttv
-中视,rtmp://59.124.75.136/sat/tv091#http://sytv.xtvants.fun/mytv.php?id=zs&token=free&user=free#rtmp://161.202.204.248/sat/tv091#http://50.7.61.148:30080/Entry/ctv
-民视,rtmp://59.124.75.136/sat/tv051#http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free#rtmp://161.202.204.248/sat/tv051#http://50.7.61.147:30080/Entry/ftv
-华视,rtmp://59.124.75.136/sat/tv111#http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free#rtmp://161.202.204.248/sat/tv111#http://50.7.61.147:30080/Entry/cts
+台视,rtmp://59.124.75.136/sat/tv071#http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free#http://50.7.61.148:30080/Entry/ttv
+中视,rtmp://59.124.75.136/sat/tv091#http://sytv.xtvants.fun/mytv.php?id=zs&token=free&user=free#http://50.7.61.148:30080/Entry/ctv
+民视,rtmp://59.124.75.136/sat/tv051#http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free#http://50.7.61.147:30080/Entry/ftv
+华视,rtmp://59.124.75.136/sat/tv111#http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
-東森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free#rtmp://59.124.75.136/sat/tv521#rtmp://161.202.204.248/sat/tv521
+東森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free#rtmp://59.124.75.136/sat/tv521
 東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
-八大綜合,p8p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
 三立都會,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 三立台灣,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -52,13 +51,13 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中視新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視新聞台,http://seb.sason.top/sc/msxw_fhd.m3u8
-Sport 1,rtmp://59.124.75.136/sat/tv731#rtmp://161.202.204.248/sat/tv731
-Sport 2,rtmp://59.124.75.136/sat/tv741#rtmp://161.202.204.248/sat/tv741
-Sport 3,rtmp://59.124.75.136/sat/md011#rtmp://161.202.204.248/sat/md011
-Sport 4,rtmp://59.124.75.136/sat/md021#rtmp://161.202.204.248/sat/md021
-Sport 5,rtmp://59.124.75.136/sat/md031#rtmp://161.202.204.248/sat/md031
-Sport 6,rtmp://59.124.75.136/sat/md041#rtmp://161.202.204.248/sat/md041
-Sport 7,rtmp://59.124.75.136/sat/md051#rtmp://161.202.204.248/sat/md051
+Sport 1,rtmp://59.124.75.136/sat/tv731
+Sport 2,rtmp://59.124.75.136/sat/tv741
+Sport 3,rtmp://59.124.75.136/sat/md011
+Sport 4,rtmp://59.124.75.136/sat/md021
+Sport 5,rtmp://59.124.75.136/sat/md031
+Sport 6,rtmp://59.124.75.136/sat/md041
+Sport 7,rtmp://59.124.75.136/sat/md051
 $c_start新马$c_end
 AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
