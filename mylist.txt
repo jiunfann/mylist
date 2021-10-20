@@ -38,10 +38,11 @@ $c_start台湾$c_end
 民视,rtmp://59.124.75.136/sat/tv051#http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free#http://50.7.61.147:30080/Entry/ftv
 华视,rtmp://59.124.75.136/sat/tv111#http://sytv.xtvants.fun/mytv.php?id=hs&token=free&user=free#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
+八大综合,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
 東森超视,http://sytv.xtvants.fun/mytv.php?id=dscs&token=free&user=free#rtmp://59.124.75.136/sat/tv521
 東森綜合,http://sytv.xtvants.fun/mytv.php?id=dszh&token=free&user=free
-三立都會,http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free#https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-三立台灣,http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free#https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
