@@ -86,19 +86,19 @@ Supersports 4,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/33973#http://f
 Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 $c_start香港$c_end
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
-J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#https://p2.weizan.cn/1646497941/939801511891437527/live.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
-TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
-无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://ye23.win/iptv/tvb.php?id=1#http://livetv.dnsfor.me/channel.10.m3u8
-无线财经资讯台,http://cdn.hkdtmb.com/hls/85/index.m3u8#http://ye23.win/iptv/tvb.php?id=2
-有线新闻,http://api.hstv.me:8080/hstv/hstv2021/4#https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8
+J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/chunks.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
+TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
+无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
+无线财经资讯台,http://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
+有线新闻,http://api.hstv.me:8080/hstv/hstv2021/4#
 有线财经,http://api.hstv.me:8080/hstv/hstv2021/12
 NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
 NOW体育台,http://livetv.dnsfor.me/channel.12.m3u8
-RTHK31,https://p2.weizan.cn/1646497941/697113090439139174/live.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
+RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
-ViU TV,https://p2.weizan.cn/1646497941/298463206624524692/live.m3u8#http://cdn.hkdtmb.com/hls/99/index.m3u8
-ViU TV 6,http://cdn.hkdtmb.com/hls/96/index.m3u8
+ViU TV,http://185.207.176.189:8080/channels/tv-99/chunks.m3u8#http://cdn.hkdtmb.com/hls/99/index.m3u8
+ViU TV 6,http://185.207.176.189:8080/channels/tv-96/chunks.m3u8#http://cdn.hkdtmb.com/hls/96/index.m3u8
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
