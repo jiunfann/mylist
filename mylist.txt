@@ -67,7 +67,7 @@ AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 AOD HD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8 
-天映频道,http://93.190.139.35:8278/streams/d/Celestialindo/playlist.m3u8
+天映频道,http://43.128.9.168/jjtv.php?id=63#http://93.190.139.35:8278/streams/d/Celestialindo/playlist.m3u8
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
