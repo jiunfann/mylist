@@ -50,6 +50,8 @@ TVBS新闻台,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv#https:/
 中視新闻台,http://v3948069e.live.126.net/live/dscspbkh98253248/37.flv#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8#http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
+迪士尼,http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
+CN卡通,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
 Sport 1,rtmp://59.124.75.138/sat/tv731#rtmp://59.124.75.157/sat/tv731
 Sport 2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.157/sat/tv741
 Sport 3,rtmp://59.124.75.138/sat/md011#rtmp://59.124.75.157/sat/md011
