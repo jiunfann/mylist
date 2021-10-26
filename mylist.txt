@@ -73,16 +73,16 @@ NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 TV1,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/4#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/5#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/1#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-NTV7,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+NTV7,https://raw.githubusercontent.com/KakLongGarang/M4st3r/main/NTV7.m3u8#http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV8,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/6#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Arena,http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-Supersports 1,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23453#http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1722#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-Supersports 2,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23452#http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59219#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-Supersports 3,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23451#http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1720#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-Supersports 4,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/33973#http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59217#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+Supersports 1,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23453#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+Supersports 2,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23452#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+Supersports 3,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23451#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+Supersports 4,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/33973#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 $c_start香港$c_end
 翡翠台,https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8#http://185.207.176.189:8080/channels/tv-81/chunks.m3u8#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
