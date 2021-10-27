@@ -1,3 +1,4 @@
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="998" tvg-chno="998" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
