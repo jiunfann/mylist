@@ -78,7 +78,7 @@ TV3,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/1#http://50.7.161.82:8278/s
 NTV7,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV8,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/6#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Mediacorp CH-5,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599380#p5p://0198.02686.cc:16871/5f48befd0008c5702413bdf1cb4c3d16#p8p://198.255.106.42:16871/5f48befd0008c5702413bdf1cb4c3d16
+Mediacorp CH-5,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599380
 Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381
 Mediacorp Ch-U,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599382
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
