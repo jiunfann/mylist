@@ -60,7 +60,7 @@ Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.157/sat/md031
 Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.157/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
-AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+AEC,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599201#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 华丽台,http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
 欢喜台,http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
@@ -70,8 +70,8 @@ TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 AOD HD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8 
 天映频道,http://43.128.9.168/jjtv.php?id=63#http://93.190.139.35:8278/streams/d/Celestialindo/playlist.m3u8
-ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+ANIMAL PLANET,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599195#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+NAT GEO wild,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599296#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 TV1,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/4#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/5#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/1#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
