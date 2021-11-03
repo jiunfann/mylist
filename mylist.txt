@@ -38,10 +38,7 @@ $c_start台湾$c_end
 民视,rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.157/sat/tv051#http://43.128.9.168/jjtv.php?id=24#http://50.7.61.147:30080/Entry/ftv
 华视,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.157/sat/tv111#http://43.128.9.168/jjtv.php?id=30#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
-東森超視,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
-東森綜合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts#p5p://fccs.123178.top:9906/60f6d48100093dde01e5183e2fe6721c.ts
-八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388.ts
-八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+八大综合,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -64,6 +61,8 @@ Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.157/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
 AEC,http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+华丽台,http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
+欢喜台,http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
 爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
