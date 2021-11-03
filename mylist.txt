@@ -61,29 +61,28 @@ Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.157/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
 AEC,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599201#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-华丽台,http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
+翡翠华丽台,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599313#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
 欢喜台,http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
-爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-TVB 星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-AOD HD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8 
-天映频道,http://43.128.9.168/jjtv.php?id=63#http://93.190.139.35:8278/streams/d/Celestialindo/playlist.m3u8
+爱奇艺,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599223#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+全佳,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599228#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+双星,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599231#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+TVB 星河,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599314#http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+TVB 经典,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599311
+小太阳,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599241#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+AOD HD,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599202#http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8 
+天映频道,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599257#http://43.128.9.168/jjtv.php?id=63#http://93.190.139.35:8278/streams/d/Celestialindo/playlist.m3u8
 ANIMAL PLANET,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599195#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 NAT GEO wild,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599296#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 TV1,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/4#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 TV2,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/5#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/1#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-NTV7,http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
+NTV7,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599299#http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV8,http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/6#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Mediacorp CH-5,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599380
+TV9,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599310#http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381
-Mediacorp Ch-U,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599382
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-Arena,http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Arena,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599207#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Supersports 1,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23453#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 Supersports 2,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23452#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 Supersports 3,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23451#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
