@@ -83,10 +83,10 @@ Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381
 Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Arena,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599207#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-Supersports 1,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23453#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-Supersports 2,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23452#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-Supersports 3,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/23451#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-Supersports 4,http://tv.iptvstack.net:80/AltanTezcanIPTV/GhXFpk06/33973#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+Supersports 1,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599208#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+Supersports 2,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599210#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+Supersports 3,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599211#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+Supersports 4,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599212#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 $c_start香港$c_end
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
