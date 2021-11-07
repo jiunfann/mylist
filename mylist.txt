@@ -62,7 +62,7 @@ Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
 AEC,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599201#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 翡翠华丽台,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599313#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
-欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
+欢喜台,http://iptv4u.tk:2082/cuba1/cuba1/57#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
 爱奇艺,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599223#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 全佳,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599228#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 双星,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599231#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
