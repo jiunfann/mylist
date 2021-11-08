@@ -92,7 +92,7 @@ Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 beIN SPORTS,http://185.224.218.17:83/22446688/22446688/387479.ts
 beIN MAX,http://185.224.218.17:83/22446688/22446688/387476.ts
 $c_start香港$c_end
-翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8#https://flv3948069e.live.126.net/live/3f4f261bf01caf22f1d82f2ef549e8c7.flv
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/chunks.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
 TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
 无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
