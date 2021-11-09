@@ -38,10 +38,10 @@ $c_start台湾$c_end
 民视,rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.157/sat/tv051#http://43.128.9.168/jjtv.php?id=24#http://50.7.61.147:30080/Entry/ftv
 华视,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.157/sat/tv111#http://43.128.9.168/jjtv.php?id=30#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
-東森综合,http://1.116.20.203/tv.php?id=32&p
-東森超视,P2p://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
-八大第一,P2p://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
-八大综合,P2p://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+東森综合,mitv://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
+東森超视,mitv://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
+八大第一,p8p://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
+八大综合,p8p://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
