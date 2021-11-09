@@ -39,20 +39,24 @@ $c_start台湾$c_end
 华视,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.157/sat/tv111#http://43.128.9.168/jjtv.php?id=30#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 東森综合,http://1.116.20.203/tv.php?id=32&p
-八大综合,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+東森超视,P2p://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
+八大第一,P2p://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
+八大综合,P2p://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
 東森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-华視新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8#http://seb.sason.top/sc/hsxw_fhd.m3u8
+华視新闻台,P2p://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8#http://seb.sason.top/sc/hsxw_fhd.m3u8
 TVBS新闻台,rtmp://59.124.75.138/sat/tv551#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中視新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8#http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視新闻台,P2p://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8#http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
 迪士尼,http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
 CN卡通,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
+动物星球,P2p://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
+国家地理野生,P2p://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
 Sport 1,rtmp://59.124.75.138/sat/tv731#rtmp://59.124.75.157/sat/tv731
 Sport 2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.157/sat/tv741
 Sport 3,rtmp://59.124.75.138/sat/md011#rtmp://59.124.75.157/sat/md011
@@ -80,7 +84,8 @@ TV3,http://5.161.45.72:5080/WebRTCApp/streams/tv33.m3u8#http://w.nasvpn.xyz:8080
 NTV7,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599299#http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV8,http://5.161.45.72:5080/WebRTCApp/streams/tv88.m3u8#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599310#http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381
+Mediacorp CH-5,P2p://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
+Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381#P2p://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
 Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Arena,http://185.224.218.17:83/22446688/22446688/387477.ts,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599207#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
