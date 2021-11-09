@@ -38,6 +38,7 @@ $c_start台湾$c_end
 民视,rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.157/sat/tv051#http://43.128.9.168/jjtv.php?id=24#http://50.7.61.147:30080/Entry/ftv
 华视,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.157/sat/tv111#http://43.128.9.168/jjtv.php?id=30#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
+東森综合,http://1.116.20.203/tv.php?id=32&p
 八大综合,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
@@ -62,7 +63,7 @@ Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
 AEC,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599201#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 翡翠华丽台,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599313#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
-欢喜台,http://iptv4u.tk:2082/cuba1/cuba1/57#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
+欢喜台,P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
 爱奇艺,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599223#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 全佳,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599228#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 双星,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599231#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -92,7 +93,7 @@ Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 beIN SPORTS,http://185.224.218.17:83/22446688/22446688/387479.ts
 beIN MAX,http://185.224.218.17:83/22446688/22446688/387476.ts
 $c_start香港$c_end
-翡翠台,https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,http://1.116.20.203/tv.php?id=78&p#https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/chunks.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
 TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
 无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
