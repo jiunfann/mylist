@@ -78,11 +78,11 @@ AOD HD,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599202#http://50.7.161.8
 天映频道,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599257#http://43.128.9.168/jjtv.php?id=63#http://93.190.139.35:8278/streams/d/Celestialindo/playlist.m3u8
 ANIMAL PLANET,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599195#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 NAT GEO wild,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599296#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
-TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
-TV3,http://5.161.45.72:5080/WebRTCApp/streams/tv33.m3u8#http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/1#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+TV2,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 NTV7,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599299#http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
-TV8,http://5.161.45.72:5080/WebRTCApp/streams/tv88.m3u8#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV8,mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599310#http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
 Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381#mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
