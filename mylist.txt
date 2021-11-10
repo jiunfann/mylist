@@ -67,7 +67,7 @@ Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
 AEC,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599201#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 翡翠华丽台,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599313#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
-欢喜台,P2p://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
+欢喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
 爱奇艺,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599223#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 全佳,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599228#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 双星,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599231#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -84,8 +84,9 @@ TV3,http://5.161.45.72:5080/WebRTCApp/streams/tv33.m3u8#http://w.nasvpn.xyz:8080
 NTV7,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599299#http://50.7.161.82:8278/streams/d/ntv7_pye/playlist.m3u8
 TV8,http://5.161.45.72:5080/WebRTCApp/streams/tv88.m3u8#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599310#http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Mediacorp CH-5,P2p://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
-Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381#P2p://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
+Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
+Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381#mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
+Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
 Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Arena,http://185.224.218.17:83/22446688/22446688/387477.ts,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599207#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
@@ -94,11 +95,12 @@ Supersports 1,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599208#http://ipt
 Supersports 2,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599210#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 Supersports 3,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599211#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 Supersports 4,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599212#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+SuperSport 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
 Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 beIN SPORTS,http://185.224.218.17:83/22446688/22446688/387479.ts
 beIN MAX,http://185.224.218.17:83/22446688/22446688/387476.ts
 $c_start香港$c_end
-翡翠台,https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#https://p2.weizan.cn/1646497941/173900819035303680/live.m3u8#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/chunks.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
 TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
 无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
