@@ -85,7 +85,7 @@ NTV7,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599299#http://50.7.161.82:
 TV8,mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a#http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599310#http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
-Mediacorp CH-8,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381#mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
+Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953#http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599381
 Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
 Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
