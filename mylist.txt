@@ -65,13 +65,13 @@ Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.157/sat/md031
 Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.157/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
-AEC,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599201#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-翡翠华丽台,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599313#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
+AEC,mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e#http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599201#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+翡翠华丽台,mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9#http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599313#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
 欢喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
-爱奇艺,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599223#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-全佳,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599228#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-双星,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599231#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-TVB 星河,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599314#http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+爱奇艺,mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a#http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599223#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+全佳,mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345#http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599228#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+双星,mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5#http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599231#http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+TVB 星河,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a#http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599314#http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB 经典,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599311
 小太阳,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599241#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 AOD HD,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599202#http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8 
