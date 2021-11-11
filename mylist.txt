@@ -91,10 +91,10 @@ Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://5
 RTM Sports HD,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Arena,http://185.224.218.17:83/22446688/22446688/387477.ts,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599207#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Arena 2,http://185.224.218.17:83/22446688/22446688/387478.ts
-Supersports 1,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599208#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-Supersports 2,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599210#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-Supersports 3,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599211#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-Supersports 4,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599212#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+Supersports 1,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+Supersports 2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+Supersports 3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+Supersports 4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 SuperSport 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
 Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 beIN SPORTS,http://185.224.218.17:83/22446688/22446688/387479.ts
