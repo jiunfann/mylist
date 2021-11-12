@@ -86,7 +86,7 @@ TV9,mitv://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb#http://50.7.
 Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
 Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
 Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
-Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Awani,mitv://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8#http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0#http://185.224.218.17:83/22446688/22446688/387477.ts#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b#http://185.224.218.17:83/22446688/22446688/387478.ts
