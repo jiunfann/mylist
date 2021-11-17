@@ -42,8 +42,8 @@ $c_start台湾$c_end
 東森超视,mitv://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
 八大第一,mitv://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
 八大综合,mitv://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sldh&token=free&user=free
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#http://sytv.xtvants.fun/mytv.php?id=sltw&token=free&user=free
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -53,10 +53,8 @@ TVBS新闻台,rtmp://59.124.75.138/sat/tv551#https://raw.githubusercontent.com/e
 中視新闻台,mitv://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8#http://seb.sason.top/sc/zsxw_fhd.m3u8
 台視新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民視新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
-迪士尼,http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
-CN卡通,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
-动物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c#mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
-国家地理野生,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+迪士尼,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b#http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
+CN卡通,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526#http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
 Sport 1,rtmp://59.124.75.138/sat/tv731#rtmp://59.124.75.157/sat/tv731
 Sport 2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.157/sat/tv741
 Sport 3,rtmp://59.124.75.138/sat/md011#rtmp://59.124.75.157/sat/md011
@@ -104,7 +102,14 @@ J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/
 TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
 无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
 无线财经资讯台,http://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
-有线新闻,https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8#http://43.128.9.168/jjtv.php?id=13
+有線新聞台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf#https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
+有線直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
+有線綜合娛樂台,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
+有線財經資訊台,mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
+有線電影台,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
+有線體育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
+有線603台,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+有線Sports Plus 1,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54#mitv://51.81.90.178:9906/947fa69d3ee7421f83b9aae7df4c846d
 NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
 RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
