@@ -63,6 +63,7 @@ Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.157/sat/md031
 Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.157/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
+Gmm One,http://916309128f3e.sn.mynetname.net:1935/aslive/onehd/ompronlist.m3u8#http://93.190.139.35:8278/streams/d/gmmone_pat/playlist.m3u8
 AEC,mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 翡翠华丽台,mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
 欢喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
