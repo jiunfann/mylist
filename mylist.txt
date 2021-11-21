@@ -35,7 +35,7 @@ $c_start中国-卫视$c_end
 $c_start台湾$c_end
 台视,rtmp://59.124.75.138/sat/tv071#rtmp://59.124.75.157/sat/tv071#http://sytv.xtvants.fun/mytv.php?id=ts&token=free&user=free#http://50.7.61.148:30080/Entry/ttv
 中视,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.157/sat/tv091#http://43.128.9.168/jjtv.php?id=29#http://50.7.61.148:30080/Entry/ctv
-民视,rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.157/sat/tv051#http://43.128.9.168/jjtv.php?id=24#http://50.7.61.147:30080/Entry/ftv
+民视,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a#rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.157/sat/tv051#http://50.7.61.147:30080/Entry/ftv
 华视,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.157/sat/tv111#http://43.128.9.168/jjtv.php?id=30#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 東森综合,mitv://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
