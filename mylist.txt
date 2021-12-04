@@ -65,7 +65,7 @@ Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
 Gmm One,http://916309128f3e.sn.mynetname.net:1935/aslive/onehd/ompronlist.m3u8#http://93.190.139.35:8278/streams/d/gmmone_pat/playlist.m3u8
 AEC,mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e#http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-翡翠华丽台,mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
+翡翠华丽台,rtmp://v3948069e.live.126.net/live/hhoojj885#mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9#http://50.7.161.82:8278/streams/d/hualee_pye/playlist.m3u8
 欢喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb#http://50.7.161.82:8278/streams/d/huanxi_pye/playlist.m3u8
 爱奇艺,mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a#http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 全佳,mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -74,8 +74,8 @@ TVB 星河,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a#mitv://ns2.hell
 小太阳,mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f#http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 AOD HD,mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85#http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8 
 天映频道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e#http://93.190.139.35:8278/streams/d/Celestialindo/playlist.m3u8
-ANIMAL PLANET,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c#mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-NAT GEO wild,mitv://ns2.hellotvvod.com:9906/3a0602f78e5e4c368fbf0d056436ee5d#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+ANIMAL PLANET,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7#http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+NAT GEO wild,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c#http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
 TV2,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
 TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
