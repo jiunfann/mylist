@@ -98,12 +98,12 @@ Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 beIN SPORTS,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc#http://185.224.218.17:83/22446688/22446688/387479.ts
 beIN MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7#http://185.224.218.17:83/22446688/22446688/387476.ts
 $c_start香港$c_end
-翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8#mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/chunks.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
 TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
 无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
 无线财经资讯台,http://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
-有線新聞台,http://ai7499003.va1.aihost10.top/live/iptv_23.m3u8#mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf#https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
+有線新聞台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf#https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
 有線直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
 有線綜合娛樂台,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
 有線財經資訊台,mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
