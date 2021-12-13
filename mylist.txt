@@ -80,7 +80,7 @@ TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e#http://50.7.
 TV2,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
 TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 NTV7,mitv://ns2.hellotvvod.com:9906/744ca9a033104420895e9738abdccc0b
-TV8,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8#mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
+TV8,mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
 TV9,mitv://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb#http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
 Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
