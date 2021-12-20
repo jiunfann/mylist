@@ -99,10 +99,10 @@ beIN SPORTS,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc#http
 beIN MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7#http://185.224.218.17:83/22446688/22446688/387476.ts
 $c_start香港$c_end
 翡翠台,mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84#https://cdn-cn.hkdtmb.com/hls/81/index.m3u8#http://cdn.hkdtmb.com/hls/81/index.m3u8
-J2,http://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/chunks.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
-TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
-无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
-无线财经资讯台,http://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/chunks.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
+TVB明珠台,http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
+无线新闻台,http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
+无线财经资讯台,http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
 有線新聞台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf#https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
 有線直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
 有線綜合娛樂台,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
@@ -113,10 +113,10 @@ TVB明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080
 有線Sports Plus 1,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54#mitv://51.81.90.178:9906/947fa69d3ee7421f83b9aae7df4c846d
 NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
-RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8#http://livetv.dnsfor.me/channel.1.m3u8
-RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8#http://livetv.dnsfor.me/channel.2.m3u8
-ViU TV,http://cdn.hkdtmb.com/hls/99/index.m3u8
-ViU TV 6,http://cdn.hkdtmb.com/hls/96/index.m3u8
+RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
+ViU TV,mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
+ViU TV 6,mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
