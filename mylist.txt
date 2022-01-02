@@ -102,13 +102,13 @@ J2,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4#http:/
 TVB明珠台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH5/5#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
 无线新闻台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14/14#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
 无线财经资讯台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH15/15#http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
-有線新聞台,mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf#https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
+有線新聞台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146#mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf#https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
 有線直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
 有線綜合娛樂台,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
-有線財經資訊台,mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
+有線財經資訊台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH149/149#mitv://ns2.hellotvvod.com:9906/94ecdbe381c54b58bcca74b7b88047a2
 有線電影台,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
 有線體育台,mitv://ns2.hellotvvod.com:9906/1f7426398b0248708172875db037edff
-有線603台,mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
+有線603台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH148/148#mitv://ns2.hellotvvod.com:9906/bc32fd90af7d4f4aaa3bd451d9199153
 有線Sports Plus 1,mitv://ns2.hellotvvod.com:9906/36976aef6f4f4ab2aad06b8ece5aac54#mitv://51.81.90.178:9906/947fa69d3ee7421f83b9aae7df4c846d
 NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
