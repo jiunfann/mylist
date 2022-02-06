@@ -42,7 +42,7 @@ $c_start台湾$c_end
 東森超视,mitv://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
 八大第一,mitv://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
 八大综合,mitv://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c#http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on#mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
+三立都會,http://50.7.61.147:30080/Entry/setcity#mitv://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab#p8p://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on#mitv://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
