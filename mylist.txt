@@ -63,36 +63,36 @@ Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.157/sat/md031
 Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.157/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
-AEC,mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
-翡翠华丽台,mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
-欢喜台,mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
-爱奇艺,mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a
-全佳,mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
-双星,mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
-TVB 星河,mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
-小太阳,mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
-AOD HD,mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85 
-天映频道,mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
+AEC,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Aec/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/672202f697ea4e77943f6898754f0c1e
+翡翠华丽台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Wlt/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/b1b2d6da00de42efa4fe6051d35650d9
+欢喜台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Huahee/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
+爱奇艺,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Qiyi/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a
+全佳,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Quanjia/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
+双星,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Shuangxing/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
+TVB 星河,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Xinhe/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+小太阳,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Xiaotaiyang/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
+AOD HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/AodHD/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85 
+天映频道,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Celestial/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/ec8466ba789143998fb9ed858b7c174e
 ANIMAL PLANET,http://206.119.173.184/tv/js.php?id=122#mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
 NAT GEO wild,http://206.119.173.184/tv/js.php?id=121#mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
-TV1,mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
-TV2,mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
-TV3,mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-NTV7,mitv://ns2.hellotvvod.com:9906/744ca9a033104420895e9738abdccc0b
-TV8,mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
-TV9,mitv://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb#http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
-Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
-Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
-Awani,mitv://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-RTM Sports HD,mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8#http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-Arena,mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0#http://185.224.218.17:83/22446688/22446688/387477.ts#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-Arena 2,mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b#http://185.224.218.17:83/22446688/22446688/387478.ts
-ASSP 1,mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-ASSP 2,mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-ASSP 3,mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-ASSP 4,mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-ASSP 5,mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
+TV1,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV1/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/ed9fbe35e4c14541bd911379fa366c5e#http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv1_pye/playlist.m3u8
+TV2,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV2#mitv://ns2.hellotvvod.com:9906/930503b892614a558992dee7246ec31f#http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8#http://50.7.161.82:8278/streams/d/tv2_pye/playlist.m3u8
+TV3,http://ublive.kozow.com/smart/smart.php?url=http://50.7.234.146:8278/TV3#mitv://ns2.hellotvvod.com:9906/bd86602e27b74854961c393b636e570f#http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+NTV7,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Rtmntv7/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/744ca9a033104420895e9738abdccc0b
+TV8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV8/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/6ca879209e6f487a841f07713bba541a
+TV9,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/TV9/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/54a9ff9815d44b1ca3c479d5c32609bb#http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+Mediacorp CH-5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel5HD/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
+Mediacorp CH-8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel8HD/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
+Mediacorp CH-U,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/ChannelU/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
+Awani,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+RTM Sports HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8#http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+Arena,http://ublive.kozow.com/smart/smart.php?url=http://50.7.234.146:8278/Arena/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0#http://185.224.218.17:83/22446688/22446688/387477.ts#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Arena 2,http://ublive.kozow.com/smart/smart.php?url=http://5.7.92.74:8278/Arena2/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b#http://185.224.218.17:83/22446688/22446688/387478.ts
+ASSP 1,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp1/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+ASSP 2,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp2/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+ASSP 3,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp3/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+ASSP 4,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp4/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+ASSP 5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp5/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
 Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
 beIN SPORTS,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc#http://185.224.218.17:83/22446688/22446688/387479.ts
 beIN MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7#http://185.224.218.17:83/22446688/22446688/387476.ts
