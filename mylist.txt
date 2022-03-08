@@ -86,23 +86,21 @@ Mediacorp CH-8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:827
 Mediacorp CH-U,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/ChannelU/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
 Awani,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8#http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-Arena,http://ublive.kozow.com/smart/smart.php?url=http://50.7.234.146:8278/Arena/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/5854587c3f164d0bb0a66626f9ee09d0#http://185.224.218.17:83/22446688/22446688/387477.ts#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-Arena 2,http://ublive.kozow.com/smart/smart.php?url=http://5.7.92.74:8278/Arena2/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/ca874a7d7e614ebd832e6e1e9478525b#http://185.224.218.17:83/22446688/22446688/387478.ts
-ASSP 1,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp1/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/e12cfed6c3d94f27bd4f480d42b0c7b5#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-ASSP 2,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp2/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/5aa28b0759774904a25d7fc12ea233a9#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-ASSP 3,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp3/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/68067267b2734dd39032d08bf83db8f0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-ASSP 4,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp4/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-ASSP 5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Assp5/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/cc02a88163414af7b4d7479a833f1407
+Arena,http://shareext@urtv.cc:80/live/297340/297340/6707.ts?shareext.ts#http://185.224.218.17:83/22446688/22446688/387477.ts#http://iptv.tvmalaysia.cc:80/penang189/penang189/6707#http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Arena 2,http://shareext@urtv.cc:80/live/297340/297340/9028.ts?shareext.ts#http://185.224.218.17:83/22446688/22446688/387478.ts
+ASSP 1,http://shareext@urtv.cc:80/live/297340/297340/9024.ts?shareext.ts#http://iptv.tvmalaysia.cc:80/penang189/penang189/9024#http://43.128.9.168/jjtv.php?id=108#http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+ASSP 2,http://shareext@urtv.cc:80/live/297340/297340/9025.ts?shareext.ts#http://iptv.tvmalaysia.cc:80/penang189/penang189/9025#http://43.128.9.168/jjtv.php?id=109#http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+ASSP 3,http://shareext@urtv.cc:80/live/297340/297340/9020.ts?shareext.ts#http://iptv.tvmalaysia.cc:80/penang189/penang189/9020#http://43.128.9.168/jjtv.php?id=110#http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+ASSP 4,http://shareext@urtv.cc:80/live/297340/297340/9026.ts?shareext.ts#mitv://ns2.hellotvvod.com:9906/6ba21b7211494ed4ac1456d6ba8cbaa0#http://iptv.tvmalaysia.cc:80/penang189/penang189/9026#http://43.128.9.168/jjtv.php?id=111#http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+ASSP 5,http://shareext@urtv.cc:80/live/297340/297340/9029.ts?shareext.ts
 Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang189/penang189/6617
-beIN SPORTS,mitv://ns2.hellotvvod.com:9906/2f0a1100d8724e7c8fe7f33fef6722cc#http://185.224.218.17:83/22446688/22446688/387479.ts
-beIN MAX,mitv://ns2.hellotvvod.com:9906/1d28c61387af4ccd847b72b1601415d7#http://185.224.218.17:83/22446688/22446688/387476.ts
 $c_start香港$c_end
-翡翠台,http://206.119.173.184/tv/js.php?id=4#mitv://ns2.hellotvvod.com:9906/9e2a8fd74a5242f3b2e2621cb384ec84
-J2,http://206.119.173.184/tv/js.php?id=9#http://185.207.176.189:8080/channels/tv-82/chunks.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix 
-TVB明珠台,http://206.119.173.184/tv/js.php?id=6#http://185.207.176.189:8080/channels/tv-84/chunks.m3u8
-无线经典台,http://206.119.173.184/tv/js.php?id=11
-无线新闻台,http://206.119.173.184/tv/js.php?id=12#http://185.207.176.189:8080/channels/tv-83/chunks.m3u8#http://livetv.dnsfor.me/channel.10.m3u8
-无线财经资讯台,http://206.119.173.184/tv/js.php?id=13#http://185.207.176.189:8080/channels/tv-85/chunks.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+TVB明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+无线经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
+无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
+无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8
 有線新聞台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146#mitv://ns2.hellotvvod.com:9906/a8429ecad2e446e18c362b031e3d32bf#https://p2.weizan.cn/1646497941/614105386721937654/live.m3u8
 有線直播新聞台,mitv://ns2.hellotvvod.com:9906/eede001be16e4991843619bb8af3f840
 有線綜合娛樂台,mitv://ns2.hellotvvod.com:9906/a17643cfcae6400d8770e4b89958b706
@@ -115,7 +113,7 @@ NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
-ViU TV,http://206.119.173.184/tv/js.php?id=15#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/d7506148214e4b3fae543068f1701ff7
+ViU TV,http://iptv.tvfix.org/hls/viutv.m3u8
 ViU TV 6,http://206.119.173.184/tv/js.php?id=16#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
