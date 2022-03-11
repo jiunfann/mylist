@@ -63,23 +63,23 @@ Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.157/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
 AEC,mitv://ns2.hellotvvod.com:9906/26db987d156749b3aa687e3c974d1a64.ts
-翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠华丽台,mitv://ns2.hellotvvod.com:9906/185179eb84a74dbbb4f84fdc4c9b4bd5.ts
 欢喜台,mitv://ns2.hellotvvod.com:9906/e8e8cd8584e14b6e8b83d58df4f01675.ts
 爱奇艺,mitv://ns2.hellotvvod.com:9906/70f60622dd2946da8d0baf69cd8a0963.ts
 全佳,mitv://ns2.hellotvvod.com:9906/c7945049fd8643c782410d15cc3984ad.ts
 双星,mitv://ns2.hellotvvod.com:9906/6e93d77607e146feae36fa897222fbaf.ts
 小太阳,mitv://ns2.hellotvvod.com:9906/c61f74e0628f400488cf710372ebb76c.ts
 AOD HD,mitv://ns2.hellotvvod.com:9906/bba671c9774f418497219e85eaae4466.ts 
-ANIMAL PLANET,http://206.119.173.184/tv/js.php?id=122#mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
-NAT GEO wild,http://206.119.173.184/tv/js.php?id=121#mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+ANIMAL PLANET,mitv://ns2.hellotvvod.com:9906/a882e17acbfa4d7c97b347673fc1be4e.ts
+NAT GEO wild,mitv://ns2.hellotvvod.com:9906/1db85f9bb5e9458a9df9f1ce95198fb8.ts
 TV1,mitv://ns2.hellotvvod.com:9906/214c44d356874a4388949095d7461a24.ts
 TV2,mitv://ns2.hellotvvod.com:9906/3ee5d1232f9540c3b27245656f9d6f48.ts
 TV3,mitv://ns2.hellotvvod.com:9906/60792fb5c59a4c22b4d38cb6f7cf46de.ts
 NTV7,mitv://ns2.hellotvvod.com:9906/0e13f4ba635a4c51ba28c84136f9e0da.ts
 TV8,mitv://ns2.hellotvvod.com:9906/6b7bfdd4117f4723b81b45a41b1daf1e.ts
 TV9,mitv://ns2.hellotvvod.com:9906/8405a9ce683248708acbac791da6c3c0.ts
-Mediacorp CH-5,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel5HD/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/6ef7d5d3391c4388a9e6ed5c2fd64a78
-Mediacorp CH-8,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/Channel8HD/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/58097be7ccf245e4967f20ca5b6ce953
+Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/16c0058d68ac462e986d7cf573cce5a3.ts
+Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/a2adeded9c5d40a9bbb70b079b77d2df.ts
 Mediacorp CH-U,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/ChannelU/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
 Awani,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 RTM Sports HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8#http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
