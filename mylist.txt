@@ -62,12 +62,12 @@ Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.157/sat/md031
 Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.157/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.157/sat/md051
 $c_start新马$c_end
-AEC,http://iptv.tvmalaysia.cc:80/100588/100588/6701
+AEC,mitv://ns2.hellotvvod.com:9906/26db987d156749b3aa687e3c974d1a64.ts
 翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
-欢喜台,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Huahee/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/d3f47d1dbb174a9abea701a048928bfb
-爱奇艺,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Qiyi/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/68ef448264ff4275b99f322996e3469a
-全佳,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Quanjia/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/bda13a24baf24436ae722275cbb85345
-双星,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Shuangxing/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/7872926c51f9451fb86342414e0d32f5
+欢喜台,mitv://ns2.hellotvvod.com:9906/e8e8cd8584e14b6e8b83d58df4f01675.ts
+爱奇艺,mitv://ns2.hellotvvod.com:9906/70f60622dd2946da8d0baf69cd8a0963.ts
+全佳,mitv://ns2.hellotvvod.com:9906/c7945049fd8643c782410d15cc3984ad.ts
+双星,mitv://ns2.hellotvvod.com:9906/6e93d77607e146feae36fa897222fbaf.ts
 TVB 星河,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Xinhe/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
 小太阳,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Xiaotaiyang/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
 AOD HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/AodHD/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/55fa6310d30d45029c38c2848ffbcb85 
