@@ -41,7 +41,7 @@ $c_start台湾$c_end
 東森综合,http://dllb.jxin122.top/jj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 八大第一,http://dllb.jxin122.top/jj.php?id=21&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 八大综合,http://dllb.jxin122.top/jj.php?id=22&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-三立都會,http://dllb.jxin122.top/jj.php?id=25&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+三立都會,http://59.125.101.187:8605/playlist.m3u8
 三立台灣,http://dllb.jxin122.top/jj.php?id=24&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
