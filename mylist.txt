@@ -80,8 +80,8 @@ TV8,mitv://ns2.hellotvvod.com:9906/6b7bfdd4117f4723b81b45a41b1daf1e.ts
 TV9,mitv://ns2.hellotvvod.com:9906/8405a9ce683248708acbac791da6c3c0.ts
 Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/16c0058d68ac462e986d7cf573cce5a3.ts
 Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/a2adeded9c5d40a9bbb70b079b77d2df.ts
-Mediacorp CH-U,http://ublive.kozow.com/smart/smart.php?url=http://50.7.92.74:8278/ChannelU/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
-Awani,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Awani/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/980117810fba40b7b2abbcf116553c43#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/75b72132e16d427b9f2f01541b89b949.ts
+Awani,mitv://ns2.hellotvvod.com:9906/bbe69795210a4fbe907bdfcce49793b6.ts
 RTM Sports HD,http://ublive.kozow.com/smart/smart.php?url=http://50.7.220.130:8278/Rtmsport/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/3b086dcc1106400b8f78e8547d2e3df8#http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Arena,mitv://ns2.hellotvvod.com:9906/5c70c832d10f4b49879633dab1b43616.ts
 Arena 2,mitv://ns2.hellotvvod.com:9906/dea566c69fda4f6c97c23aa0ead5320b.ts
