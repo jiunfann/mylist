@@ -38,11 +38,11 @@ $c_start台湾$c_end
 民视,rtmp://59.124.75.138/sat/tv051#rtmp://219.80.97.35/sat/tv051#http://50.7.61.147:30080/Entry/ftv
 华视,rtmp://59.124.75.157/sat/tv111#rtmp://219.80.97.35/sat/tv111#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://dllb.jxin122.top/jj.php?id=4&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc528#http://50.7.61.148:30080/Entry/starchinese
-東森综合,http://dllb.jxin122.top/jj.php?id=32&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-八大第一,http://dllb.jxin122.top/jj.php?id=21&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-八大综合,http://dllb.jxin122.top/jj.php?id=22&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
-三立台灣,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
+東森综合,http://211.23.114.106:8624/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
+八大第一,http://211.23.114.106:8629/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+八大综合,http://211.23.114.106:8620/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
+三立都會,http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8 
+三立台灣,http://59.125.101.187:8519/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -70,8 +70,8 @@ AEC,mitv://ns2.hellotvvod.com:9906/26db987d156749b3aa687e3c974d1a64.ts
 双星,mitv://ns2.hellotvvod.com:9906/6e93d77607e146feae36fa897222fbaf.ts
 小太阳,mitv://ns2.hellotvvod.com:9906/c61f74e0628f400488cf710372ebb76c.ts
 AOD HD,mitv://ns2.hellotvvod.com:9906/bba671c9774f418497219e85eaae4466.ts 
-ANIMAL PLANET,mitv://ns2.hellotvvod.com:9906/a882e17acbfa4d7c97b347673fc1be4e.ts
-NAT GEO wild,mitv://ns2.hellotvvod.com:9906/1db85f9bb5e9458a9df9f1ce95198fb8.ts
+ANIMAL PLANET,http://59.125.101.187:8593/http/61.221.81.94:8088/hls/70/812/ch37.m3u8#mitv://ns2.hellotvvod.com:9906/a882e17acbfa4d7c97b347673fc1be4e.ts
+NAT GEO wild,http://59.125.101.187:8501/http/192.168.77.24:8088/hls/61/803/ch01.m3u8#mitv://ns2.hellotvvod.com:9906/1db85f9bb5e9458a9df9f1ce95198fb8.ts
 TV1,mitv://ns2.hellotvvod.com:9906/214c44d356874a4388949095d7461a24.ts
 TV2,mitv://ns2.hellotvvod.com:9906/3ee5d1232f9540c3b27245656f9d6f48.ts
 TV3,mitv://ns2.hellotvvod.com:9906/60792fb5c59a4c22b4d38cb6f7cf46de.ts
