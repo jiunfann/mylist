@@ -39,9 +39,9 @@ $c_start台湾$c_end
 华视,rtmp://59.124.75.157/sat/tv111#rtmp://219.80.97.35/sat/tv111#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
 東森综合,http://211.23.114.106:8624/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-八大第一,http://211.23.114.106:8629/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
-八大综合,http://211.23.114.106:8620/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
-三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8 
+八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
+八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
+三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
 三立台灣,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
 三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
 三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
