@@ -91,9 +91,9 @@ ASSP 3,http://iptv12k.com:35461/8022022301/468985/970
 ASSP 4,http://iptv12k.com:35461/8022022301/468985/969
 ASSP 5,http://iptv12k.com:35461/8022022301/468985/968
 $c_start香港$c_end
-翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
-J2,http://iptv.tvfix.org/hls/j2.m3u8
-TVB明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8#http://iptv.tvfix.org/hls/jade2.m3u8
+J2,https://cdn.hklive.tv/hls/82/index.m3u8#http://iptv.tvfix.org/hls/j2.m3u8
+TVB明珠台,https://cdn.hklive.tv/hls/84/index.m3u8#http://iptv.tvfix.org/hls/pearl.m3u8
 无线经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
 无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
 无线财经资讯台,http://iptv.tvfix.org/hls/finance.m3u8
@@ -109,8 +109,8 @@ NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
-ViU TV,http://iptv.tvfix.org/hls/viutv.m3u8
-ViU TV 6,http://206.119.173.184/tv/js.php?id=16#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
+ViU TV,https://cdn.hklive.tv/hls/99/index.m3u8#http://iptv.tvfix.org/hls/viutv.m3u8
+ViU TV 6,https://cdn.hklive.tv/hls/96/index.m3u8#http://206.119.173.184/tv/js.php?id=16#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#mitv://ns2.hellotvvod.com:9906/0a2171b6dcd6420c98ccfb7c7f524504
 凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
