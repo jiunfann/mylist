@@ -61,6 +61,8 @@ Sport 4,rtmp://59.124.75.150/sat/md021#rtmp://219.80.97.35/sat/md021
 Sport 5,rtmp://59.124.75.150/sat/md031#rtmp://219.80.97.35/sat/md031
 Sport 6,rtmp://59.124.75.150/sat/md041#rtmp://219.80.97.35/sat/md041
 Sport 7,rtmp://59.124.75.150/sat/md051#rtmp://219.80.97.35/sat/md051
+ELEVEN1台,http://60.249.146.250:8566/http/60.251.39.91:8078/hls/25/80/esport.m3u8
+ELEVEN2台,http://60.249.146.250:8567/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
 $c_start新马$c_end
 AEC,mitv://ns2.hellotvvod.com:9906/1db285f39ad540908c559d8ee521ba13.ts#http://iptv12k.com:35461/8022022301/468985/709
 翡翠华丽台,mitv://ns2.hellotvvod.com:9906/327f3a32a1f14271a1ac756241626bf9.ts#http://iptv12k.com:35461/8022022301/468985/698
