@@ -54,6 +54,7 @@ TVBS新闻台,rtmp://59.124.75.138/sat/tv551#https://raw.githubusercontent.com/e
 民視新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
 迪士尼,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b#http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
 CN卡通,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526#http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
+纬来体育,rtmp://219.80.97.25/sat/tv721
 Sport 1,rtmp://219.80.97.25/sat/tv731
 Sport 2,rtmp://219.80.97.25/sat/tv741
 Sport 3,rtmp://219.80.97.25/sat/md011
