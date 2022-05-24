@@ -43,6 +43,13 @@ $c_start台湾$c_end
 八大综合,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 三立都會,http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 三立台灣,http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+寰宇新闻台,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
+中天新闻台,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
+TVBSHD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
+台视新闻,https://ssttvv1.6zxr.xyz/tvbs/index.m3u8
+三立inwes,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
+东森LIVE,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
+民视新闻台,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
 纬来体育,rtmp://219.80.97.25/sat/tv721
 Sport 1,rtmp://219.80.97.25/sat/tv731
 Sport 2,rtmp://219.80.97.25/sat/tv741
