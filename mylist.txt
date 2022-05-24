@@ -37,23 +37,12 @@ $c_start台湾$c_end
 中视,rtmp://219.80.97.25/sat/tv091#http://50.7.61.148:30080/Entry/ctv
 民视,rtmp://219.80.97.25/sat/tv051#http://50.7.61.147:30080/Entry/ftv
 华视,rtmp://219.80.97.25sat/tv111#http://50.7.61.147:30080/Entry/cts
-卫视中文,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
-東森综合,http://211.23.114.106:8624/http/60.251.39.91:8081/hls/63/805/ch12.m3u8
-八大第一,p5p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-八大综合,p5p://fccs.123178.top:9906/6044d641000e5dc002f7d411a124e035.ts
-三立都會,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
-三立台灣,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8
-三立Live新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立iNews新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
-中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
-東森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-华視新闻台,mitv://ns2.hellotvvod.com:9906/412a06626d254822954dd29b235f9366#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8#http://seb.sason.top/sc/hsxw_fhd.m3u8
-TVBS新闻台,rtmp://59.124.75.138/sat/tv551#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/tvbsnews.m3u8#http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中視新闻台,mitv://ns2.hellotvvod.com:9906/7575a0153b074f2d91c69eafe28ba22d#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8#http://seb.sason.top/sc/zsxw_fhd.m3u8
-台視新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民視新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
-迪士尼,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b#http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
-CN卡通,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526#http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16671/VideoInput/play.ts
+卫视中文,http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+東森综合,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+八大第一,http://59.125.101.187:8770/http/192.168.77.24:8081/hls/66/808/ch22.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+八大综合,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+三立都會,http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+三立台灣,http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 纬来体育,rtmp://219.80.97.25/sat/tv721
 Sport 1,rtmp://219.80.97.25/sat/tv731
 Sport 2,rtmp://219.80.97.25/sat/tv741
