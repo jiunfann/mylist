@@ -39,7 +39,7 @@ $c_start台湾$c_end
 华视,rtmp://219.80.97.25sat/tv111#http://50.7.61.147:30080/Entry/cts
 卫视中文,http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 東森综合,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-八大第一,http://59.125.101.187:8770/http/192.168.77.24:8081/hls/66/808/ch22.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+八大第一,p8p://45.92.126.18:19706/611a7e950004e4af0be88e80bf4b6388
 八大综合,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 三立都會,http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 三立台灣,http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
@@ -59,16 +59,16 @@ Sport 5,rtmp://219.80.97.25/sat/md031
 Sport 6,rtmp://219.80.97.25/md041
 Sport 7,rtmp://219.80.97.25/sat/md051
 $c_start新马$c_end
-AEC,mitv://ns2.hellotvvod.com:9906/1db285f39ad540908c559d8ee521ba13.ts#http://iptv12k.com:35461/8022022301/468985/709
-翡翠华丽台,mitv://ns2.hellotvvod.com:9906/327f3a32a1f14271a1ac756241626bf9.ts#http://iptv12k.com:35461/8022022301/468985/698
-欢喜台,mitv://ns2.hellotvvod.com:9906/0b39963f111d46a68408d793bd794681.ts#http://iptv12k.com:35461/8022022301/468985/707
-爱奇艺,mitv://ns2.hellotvvod.com:9906/9b3b1524efb2459da45d61df2c880499.ts#http://iptv12k.com:35461/8022022301/468985/708
-全佳,mitv://ns2.hellotvvod.com:9906/65848cf4897c4a72bf99ba49b363b6cf.ts#http://iptv12k.com:35461/8022022301/468985/710
-双星,mitv://ns2.hellotvvod.com:9906/94481d4a836a48338fab40a11900fb33.ts#http://iptv12k.com:35461/8022022301/468985/706
-小太阳,mitv://ns2.hellotvvod.com:9906/46f694adc42e472d9b1f9c672e9e1478.ts#http://iptv12k.com:35461/8022022301/468985/700
-AOD HD,mitv://ns2.hellotvvod.com:9906/5eac827f02c14b7c89f1f98491762f24.ts#http://iptv12k.com:35461/8022022301/468985/701 
-ANIMAL PLANET,mitv://ns2.hellotvvod.com:9906/9f1389bd4e1b4e7cb3856b3e930d7d59.ts#http://iptv12k.com:35461/8022022301/468985/633
-NAT GEO wild,mitv://ns2.hellotvvod.com:9906/ec8f2e6f7d6043778bf1a09a7ceae17c.ts#http://iptv12k.com:35461/8022022301/468985/630
+AEC,http://iptv12k.com:35461/80301051401/878900/709
+翡翠华丽台,http://iptv12k.com:35461/80301051401/878900/698
+欢喜台,http://iptv12k.com:35461/80301051401/878900/707
+爱奇艺,http://iptv12k.com:35461/80301051401/878900/708
+全佳,http://iptv12k.com:35461/80301051401/878900/710
+双星,http://iptv12k.com:35461/80301051401/878900/706
+小太阳,http://iptv12k.com:35461/80301051401/878900/700
+AOD HD,http://iptv12k.com:35461/80301051401/878900/701 
+ANIMAL PLANET,http://iptv12k.com:35461/80301051401/878900/633
+NAT GEO wild,http://iptv12k.com:35461/80301051401/878900/630
 TV1,mitv://ns2.hellotvvod.com:9906/9d8c843765be4a65a0a175f89a17dd3d.ts
 TV2,mitv://ns2.hellotvvod.com:9906/66bcb1bc208a4124b8a24aa45d6a1408.ts
 TV3,mitv://ns2.hellotvvod.com:9906/3f7e7fa9d87d4a0cb63561de1c55c1fa.ts
@@ -82,11 +82,11 @@ Awani,mitv://ns2.hellotvvod.com:9906/bbe69795210a4fbe907bdfcce49793b6.ts
 RTM Sports HD,mitv://ns2.hellotvvod.com:9906/722cdaedbf3c4578bb3cb892d39291f7.ts
 Arena,mitv://ns2.hellotvvod.com:9906/9931b84a9bbf444caa1568ec881138a3.ts
 Arena 2,mitv://ns2.hellotvvod.com:9906/cdf052577d4144ca8eba9dfc0e4bbf0b.ts
-ASSP 1,mitv://ns2.hellotvvod.com:9906/6a0e2340d9024b2fbbecd9406ac59cf1.ts#http://iptv12k.com:35461/8022022301/468985/972
-ASSP 2,mitv://ns2.hellotvvod.com:9906/10e49eeb0beb4459a621662df63d0b1f.ts#http://iptv12k.com:35461/8022022301/468985/971
-ASSP 3,mitv://ns2.hellotvvod.com:9906/2e4f290608344090a48009ff2a16e03e.ts#http://iptv12k.com:35461/8022022301/468985/970
-ASSP 4,mitv://ns2.hellotvvod.com:9906/a69c356f7c084229bebd07efcba74047.ts#http://iptv12k.com:35461/8022022301/468985/969
-ASSP 5,mitv://ns2.hellotvvod.com:9906/acabc5f598a7443fbff8008e0c9ffddd.ts#http://iptv12k.com:35461/8022022301/468985/968
+ASSP 1,http://iptv12k.com:35461/80301051401/878900/972
+ASSP 2,http://iptv12k.com:35461/80301051401/878900/971
+ASSP 3,http://iptv12k.com:35461/80301051401/878900/970
+ASSP 4,http://iptv12k.com:35461/80301051401/878900/969
+ASSP 5,http://iptv12k.com:35461/80301051401/878900/968
 $c_start香港$c_end
 翡翠台,http://210.6.197.248:8000/bysid/1
 J2,http://cms750.synology.me:8001/bysid/82
