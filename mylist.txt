@@ -91,6 +91,8 @@ $c_start香港$c_end
 翡翠台,http://210.6.197.248:8000/bysid/1
 J2,http://cms750.synology.me:8001/bysid/82
 TVB明珠台,http://cms750.synology.me:8001/bysid/2
+TVB经典,http://liuy.usa7.20212021.ga/ns.php?id=90
+TVB星河,http://liuy.usa7.20212021.ga/ns.php?id=76
 无线新闻台,http://cms750.synology.me:8001/bysid/83
 NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
 NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
