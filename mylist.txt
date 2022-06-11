@@ -33,16 +33,15 @@ $c_start中国-卫视$c_end
 湖北卫视,http://111.40.196.34/PLTV/88888888/224/3221225549/index.m3u8
 黑龙江卫视,http://111.40.196.27/PLTV/88888888/224/3221225541/index.m3u8
 $c_start台湾$c_end
-台视,rtmp://219.80.97.25/sat/tv071#http://50.7.61.148:30080/Entry/ttv
-中视,rtmp://219.80.97.25/sat/tv091#http://50.7.61.148:30080/Entry/ctv
-民视,rtmp://219.80.97.25/sat/tv051#http://50.7.61.147:30080/Entry/ftv
-华视,rtmp://219.80.97.25sat/tv111#http://50.7.61.147:30080/Entry/cts
-卫视中文,http://59.125.101.187:8720/http/192.168.77.24:8081/hls/62/804/ch05.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-東森综合,http://59.125.101.187:8771/http/192.168.77.24:8081/hls/63/805/ch12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-八大第一,p8p://fccs.123178.top:9906/611a7e950004e4af0be88e80bf4b6388
-八大综合,http://59.125.101.187:8768/http/192.168.77.24:8081/hls/66/808/ch21.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-三立都會,http://59.125.101.187:8732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-三立台灣,http://59.125.101.187:8731/http/192.168.77.24:8081/hls/65/807/ch20.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+台视,rtmp://59.124.75.138/sat/tv071#rtmp://59.124.75.150/sat/tv071#http://50.7.61.148:30080/Entry/ttv
+中视,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091#http://50.7.61.148:30080/Entry/ctv
+民视,rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.150/sat/tv051#http://50.7.61.147:30080/Entry/ftv
+华视,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111#http://50.7.61.147:30080/Entry/cts
+東森综合,http://220.134.196.147:9524/index.m3u8
+八大第一,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8
+八大综合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8
+三立都會,mitv://ns2.hellotvvod.com:9906/d35c3c66a2394d9a8e34beaafc32c6d4.ts
+三立台灣,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
 寰宇新闻台,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 中天新闻台,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
 TVBSHD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
@@ -50,14 +49,14 @@ TVBSHD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
 三立inwes,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
 东森LIVE,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
 民视新闻台,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
-纬来体育,rtmp://219.80.97.25/sat/tv721
-Sport 1,rtmp://219.80.97.25/sat/tv731
-Sport 2,rtmp://219.80.97.25/sat/tv741
-Sport 3,rtmp://219.80.97.25/sat/md011
-Sport 4,rtmp://219.80.97.25/sat/md021
-Sport 5,rtmp://219.80.97.25/sat/md031
-Sport 6,rtmp://219.80.97.25/md041
-Sport 7,rtmp://219.80.97.25/sat/md051
+纬来体育,rtmp://59.124.75.138/sat/tv721#rtmp://59.124.75.150/sat/tv721
+Sport 1,rtmp://59.124.75.138/sat/tv731#rtmp://59.124.75.150/sat/tv731
+Sport 2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.150/sat/tv741
+Sport 3,rtmp://59.124.75.138/sat/md011#rtmp://59.124.75.150/sat/md011
+Sport 4,rtmp://59.124.75.138/sat/md021#rtmp://59.124.75.150/sat/md021
+Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.150/sat/md031
+Sport 6,rtmp://59.124.75.138/md041#rtmp://59.124.75.150/sat/md041
+Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.150/sat/md051
 $c_start新马$c_end
 AEC,http://iptv12k.com:35461/8032022060101/452381/709
 翡翠华丽台,http://iptv12k.com:35461/8032022060101/452381/698
