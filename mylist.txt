@@ -37,11 +37,11 @@ $c_start台湾$c_end
 中视,rtmp://59.124.75.138/sat/tv091#rtmp://59.124.75.150/sat/tv091#http://50.7.61.148:30080/Entry/ctv
 民视,rtmp://59.124.75.138/sat/tv051#rtmp://59.124.75.150/sat/tv051#http://50.7.61.147:30080/Entry/ftv
 华视,rtmp://59.124.75.138/sat/tv111#rtmp://59.124.75.150/sat/tv111#http://50.7.61.147:30080/Entry/cts
-東森综合,http://220.134.196.147:9524/index.m3u8
-八大第一,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8
-八大综合,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8
-三立都會,mitv://ns2.hellotvvod.com:9906/d35c3c66a2394d9a8e34beaafc32c6d4.ts
-三立台灣,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
+東森综合,http://iptv12k.com:35461/live/test167/12345/1280.m3u8#http://220.134.196.147:9524/index.m3u8
+八大第一,http://iptv12k.com:35461/live/test167/12345/1282.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/6bb0001a-0201-4ae2-809d-c83e5e3e19f2.m3u8
+八大综合,http://iptv12k.com:35461/live/test167/12345/1283.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/0fdd4afc-c155-4164-8baa-b50c4488402d.m3u8
+三立都會,http://iptv12k.com:35461/live/test167/12345/1287.m3u8
+三立台灣,http://iptv12k.com:35461/live/test167/12345/1286.m3u8#http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/ab7c868d-3788-4bfa-8352-930399e5c78a.m3u8
 寰宇新闻台,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
 中天新闻台,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
 TVBSHD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
@@ -58,44 +58,52 @@ Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.150/sat/md031
 Sport 6,rtmp://59.124.75.138/md041#rtmp://59.124.75.150/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.150/sat/md051
 $c_start新马$c_end
-AEC,http://iptv12k.com:35461/8032022060101/452381/709
-翡翠华丽台,http://iptv12k.com:35461/8032022060101/452381/698
-欢喜台,http://iptv12k.com:35461/8032022060101/452381/707
-爱奇艺,http://iptv12k.com:35461/8032022060101/452381/708
-全佳,http://iptv12k.com:35461/8032022060101/452381/710
-双星,http://iptv12k.com:35461/8032022060101/452381/706
-小太阳,http://iptv12k.com:35461/8032022060101/452381/700
-AOD HD,http://iptv12k.com:35461/8032022060101/452381/701 
-ANIMAL PLANET,http://iptv12k.com:35461/8032022060101/452381/633
-NAT GEO wild,http://iptv12k.com:35461/8032022060101/452381/630
-TV1,http://iptv12k.com:35461/live/8032022060101/452381/742.ts
-TV2,http://iptv12k.com:35461/live/8032022060101/452381/741.ts
-TV3,http://iptv12k.com:35461/live/8032022060101/452381/5072.ts
-NTV7,http://iptv12k.com:35461/live/8032022060101/452381/739.ts
-TV8,http://iptv12k.com:35461/live/8032022060101/452381/738.ts
-TV9,http://iptv12k.com:35461/live/8032022060101/452381/737.ts
+AEC,http://iptv12k.com:35461/test167/12345/709
+翡翠华丽台,http://iptv12k.com:35461/test167/12345/698
+欢喜台,http://iptv12k.com:35461/test167/12345/707
+爱奇艺,http://iptv12k.com:35461/test167/12345/708
+全佳,http://iptv12k.com:35461/test167/12345/710
+双星,http://iptv12k.com:35461/test167/12345/706
+小太阳,http://iptv12k.com:35461/test167/12345/700
+AOD HD,http://iptv12k.com:35461/test167/12345/701 
+ANIMAL PLANET,http://iptv12k.com:35461/test167/12345/633
+NAT GEO wild,http://iptv12k.com:35461/test167/12345/630
+TV1,http://iptv12k.com:35461/live/test167/12345/742.ts
+TV2,http://iptv12k.com:35461/live/test167/12345/741.ts
+TV3,http://iptv12k.com:35461/live/test167/12345/5072.ts
+NTV7,http://iptv12k.com:35461/live/test167/12345/739.ts
+TV8,http://iptv12k.com:35461/live/test167/12345/738.ts
+TV9,http://iptv12k.com:35461/live/test167/12345/737.ts
 Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/24a2313c7ead4b69ae2e5ffad4d6fd7c.ts
 Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/3b659e20404548739e053cb501061820.ts
 Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/ff0a3d258cf049e3847b77501988b09b.ts
-Awani,http://iptv12k.com:35461/live/8032022060101/452381/724
+Awani,http://iptv12k.com:35461/live/test167/12345/724
 RTM Sports HD,mitv://ns2.hellotvvod.com:9906/722cdaedbf3c4578bb3cb892d39291f7.ts
 Arena,mitv://ns2.hellotvvod.com:9906/9931b84a9bbf444caa1568ec881138a3.ts
 Arena 2,mitv://ns2.hellotvvod.com:9906/cdf052577d4144ca8eba9dfc0e4bbf0b.ts
-ASSP 1,http://iptv12k.com:35461/8032022060101/452381/972
-ASSP 2,http://iptv12k.com:35461/8032022060101/452381/971
-ASSP 3,http://iptv12k.com:35461/8032022060101/452381/970
-ASSP 4,http://iptv12k.com:35461/8032022060101/452381/969
-ASSP 5,http://iptv12k.com:35461/8032022060101/452381/968
+ASSP 1,http://iptv12k.com:35461/test167/12345/972
+ASSP 2,http://iptv12k.com:35461/test167/12345/971
+ASSP 3,http://iptv12k.com:35461/test167/12345/970
+ASSP 4,http://iptv12k.com:35461/test167/12345/969
+ASSP 5,http://iptv12k.com:35461/test167/12345/968
 $c_start香港$c_end
-翡翠台,http://210.6.197.248:8000/bysid/1
-J2,http://cms750.synology.me:8001/bysid/82
-TVB明珠台,http://cms750.synology.me:8001/bysid/2
-TVB经典,http://liuy.usa7.20212021.ga/ns.php?id=90
-TVB星河,http://liuy.usa7.20212021.ga/ns.php?id=76
-无线新闻台,http://cms750.synology.me:8001/bysid/83
-NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
-NOW直播台,http://livetv.dnsfor.me/channel.3.m3u8
-RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
-RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
-ViU TV,http://210.6.197.248:8000/bysid/99
-ViU TV 6,http://210.6.197.248:8000/bysid/96
+翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
+J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8#http://cms750.synology.me:8001/bysid/82
+TVB明珠台,http://iptv12k.com:35461/live/test167/12345/1020.m3u8#http://cms750.synology.me:8001/bysid/2
+TVB经典,http://iptv12k.com:35461/live/test167/12345/1003.m3u8#http://liuy.usa7.20212021.ga/ns.php?id=90
+TVB星河,http://iptv12k.com:35461/live/test167/12345/1000.m3u8#http://liuy.usa7.20212021.ga/ns.php?id=76
+無線新聞,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
+有線603,http://iptv12k.com:35461/live/test167/12345/1023.m3u8
+有線18,http://iptv12k.com:35461/live/test167/12345/1022.m3u8
+有線新聞,http://iptv12k.com:35461/live/test167/12345/1018.m3u8
+有線體育,http://iptv12k.com:35461/live/test167/12345/1017.m3u8
+NOW直播,http://iptv12k.com:35461/live/test167/12345/1015.m3u8
+NOW财经,http://iptv12k.com:35461/live/test167/12345/1002.m3u8
+NOW体育,http://iptv12k.com:35461/live/test167/12345/1014.m3u8
+RTHK31,http://iptv12k.com:35461/live/test167/12345/1004.m3u8
+RTHK32,http://iptv12k.com:35461/live/test167/12345/1005.m3u8
+VIU TV,http://iptv12k.com:35461/live/test167/12345/1008.m3u8
+VIU SIX,http://iptv12k.com:35461/live/test167/12345/1007.m3u8
+香港凤凰,http://iptv12k.com:35461/live/test167/12345/999.m3u8
+凤凰资讯,http://iptv12k.com:35461/live/test167/12345/998.m3u8
+凤凰中文,http://iptv12k.com:35461/live/test167/12345/997.m3u8
