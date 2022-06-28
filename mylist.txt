@@ -55,7 +55,7 @@ Sport 2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.150/sat/tv741
 Sport 3,rtmp://59.124.75.138/sat/md011#rtmp://59.124.75.150/sat/md011
 Sport 4,rtmp://59.124.75.138/sat/md021#rtmp://59.124.75.150/sat/md021
 Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.150/sat/md031
-Sport 6,rtmp://59.124.75.138/md041#rtmp://59.124.75.150/sat/md041
+Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.150/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.150/sat/md051
 $c_start新马$c_end
 AEC,http://iptv12k.com:35461/test167/12345/709
