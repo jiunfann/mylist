@@ -58,7 +58,7 @@ Sport 5,rtmp://59.124.75.138/sat/md031#rtmp://59.124.75.150/sat/md031
 Sport 6,rtmp://59.124.75.138/sat/md041#rtmp://59.124.75.150/sat/md041
 Sport 7,rtmp://59.124.75.138/sat/md051#rtmp://59.124.75.150/sat/md051
 $c_start新马$c_end
-AEC,http://iptv12k.com:35461/test167/12345/709
+AEC,http://51.79.82.208:16021
 翡翠华丽台,http://iptv12k.com:35461/test167/12345/698
 欢喜台,http://iptv12k.com:35461/test167/12345/707
 爱奇艺,http://iptv12k.com:35461/test167/12345/708
