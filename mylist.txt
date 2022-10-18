@@ -71,12 +71,12 @@ AEC,http://51.79.82.208:16021
 AOD HD,http://198.16.64.10:8278/Aod350/playlist.m3u8?tid=MB1B2059094520590945&ct=19225&tsum=bcc2ef93d38a7d6692870a50d8754563
 ANIMAL PLANET,http://198.16.64.10:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 NAT GEO wild,http://198.16.64.10:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
-TV1,http://iptv12k.com:35461/live/test167/12345/742.ts
-TV2,http://iptv12k.com:35461/live/test167/12345/741.ts
-TV3,http://iptv12k.com:35461/live/test167/12345/5072.ts
-NTV7,http://iptv12k.com:35461/live/test167/12345/739.ts
-TV8,http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-TV9,http://iptv12k.com:35461/live/test167/12345/737.ts
+TV1,http://51.79.82.208:16001
+TV2,http://51.79.82.208:16002
+TV3,http://51.79.82.208:16003
+NTV7,http://51.79.82.208:16004
+TV8,http://51.79.82.208:16005#http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+TV9,http://51.79.82.208:16006
 Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/24a2313c7ead4b69ae2e5ffad4d6fd7c.ts
 Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/3b659e20404548739e053cb501061820.ts
 Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/ff0a3d258cf049e3847b77501988b09b.ts
