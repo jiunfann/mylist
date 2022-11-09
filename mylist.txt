@@ -50,7 +50,7 @@ TVBSHD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
 三立inwes,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
 东森LIVE,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
 民视新闻台,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
-纬来体育,https://ktiptv.cf:443/2209077624/12345/877061#rtmp://9wv7.mine.nu/sat/tv721#rtmp://59.124.75.147/sat/tv721
+纬来体育,https://ktiptv.cf:443/2209077624/12345/877061#http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68#rtmp://9wv7.mine.nu/sat/tv721#rtmp://59.124.75.147/sat/tv721
 Sport 1,rtmp://9wv7.mine.nu/sat/tv731#rtmp://59.124.75.147/sat/tv731
 Sport 2,rtmp://9wv7.mine.nu/sat/tv741#rtmp://59.124.75.147/sat/tv741
 Sport 3,rtmp://9wv7.mine.nu/sat/md011#rtmp://59.124.75.147/sat/md011
