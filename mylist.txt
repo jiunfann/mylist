@@ -92,7 +92,7 @@ ASSP 3,http://51.79.82.208:16062#http://198.16.64.10:8278/Assp3/playlist.m3u8?ti
 ASSP 4,http://iptv12k.com:35461/test167/12345/969
 ASSP 5,http://iptv12k.com:35461/test167/12345/968
 $c_start香港$c_end
-翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8#http://iptv12k.com:35461/live/test167/12345/1021.m3u8
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8#http://cms750.synology.me:8001/bysid/82
 TVB明珠台,http://iptv12k.com:35461/live/test167/12345/1020.m3u8#http://cms750.synology.me:8001/bysid/2
 TVB经典,http://iptv12k.com:35461/live/test167/12345/1003.m3u8#http://liuy.usa7.20212021.ga/ns.php?id=90
