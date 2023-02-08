@@ -60,6 +60,9 @@ Sport 6,rtmp://9wv7.mine.nu/sat/md041#rtmp://59.124.75.147/sat/md041
 Sport 7,rtmp://9wv7.mine.nu/sat/md051#rtmp://59.124.75.147/sat/md051
 ElevenSport 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ElevenSport 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
+ELTA体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
+ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 $c_start新马$c_end
 AEC,http://iptv12k.com:35461/80201100806/423322/13597#http://51.79.82.208:16021
 翡翠华丽台,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
