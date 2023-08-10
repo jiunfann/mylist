@@ -34,10 +34,10 @@ $c_start中国-卫视$c_end
 黑龙江卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
 五星体育,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 $c_start台湾$c_end
-台视,http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970#rtmp://119.81.124.89/sat/tv071#rtmp://219.80.97.77/sat/tv071
-中视,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93#rtmp://119.81.124.89/sat/tv091#rtmp://219.80.97.77/sat/tv091
-民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#rtmp://119.81.124.89/sat/tv051#rtmp://219.80.97.77/sat/tv051
-华视,http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81#rtmp://119.81.124.89/sat/tv111#rtmp://219.80.97.77/sat/tv111
+台视,rtmp://9sv2.mine.nu/sat/tv071#rtmp://219.80.97.77/sat/tv071
+中视,rtmp://9sv2.mine.nu/sat/tv091#rtmp://219.80.97.77/sat/tv091
+民视,rtmp://9sv2.mine.nu/sat/tv051#rtmp://219.80.97.77/sat/tv051
+华视,rtmp://9sv2.mine.nu/sat/tv111#rtmp://219.80.97.77/sat/tv111
 東森综合,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 八大第一,http://50.7.220.74:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大综合,http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
@@ -50,14 +50,14 @@ TVBSHD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
 三立inwes,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
 东森LIVE,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
 民视新闻台,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
-纬来体育,rtmp://119.81.124.89/sat/tv721#rtmp://219.80.97.77/sat/tv721
-Sport 1,rtmp://119.81.124.89/sat/tv731#rtmp://219.80.97.77/sat/tv731
-Sport 2,rtmp://119.81.124.89/sat/tv741#rtmp://219.80.97.77/sat/tv741
-Sport 3,rtmp://119.81.124.89/sat/md011#rtmp://219.80.97.77/sat/md011
-Sport 4,rtmp://119.81.124.89/sat/md021#rtmp://219.80.97.77/sat/md021
-Sport 5,rtmp://119.81.124.89/sat/md031#rtmp://219.80.97.77/sat/md031
-Sport 6,rtmp://119.81.124.89/sat/md041#rtmp://219.80.97.77/sat/md041
-Sport 7,rtmp://119.81.124.89/sat/md051#rtmp://219.80.97.77/sat/md051
+纬来体育,rtmp://9sv2.mine.nu/sat/tv721#rtmp://219.80.97.77/sat/tv721
+Sport 1,rtmp://9sv2.mine.nu/sat/tv731#rtmp://219.80.97.77/sat/tv731
+Sport 2,rtmp://9sv2.mine.nu/sat/tv741#rtmp://219.80.97.77/sat/tv741
+Sport 3,rtmp://9sv2.mine.nu/sat/md011#rtmp://219.80.97.77/sat/md011
+Sport 4,rtmp://9sv2.mine.nu/sat/md021#rtmp://219.80.97.77/sat/md021
+Sport 5,rtmp://9sv2.mine.nu/sat/md031#rtmp://219.80.97.77/sat/md031
+Sport 6,rtmp://9sv2.mine.nu/sat/md041#rtmp://219.80.97.77/sat/md041
+Sport 7,rtmp://9sv2.mine.nu/sat/md051#rtmp://219.80.97.77/sat/md051
 ElevenSport 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ElevenSport 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
