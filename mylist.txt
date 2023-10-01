@@ -1,16 +1,16 @@
 $c_start台湾$c_end
-台视,rtmp://9sv2.mine.nu/sat/tv071#rtmp://218.32.29.20/sat/tv071
-中视,rtmp://9sv2.mine.nu/sat/tv091#rtmp://218.32.29.20/sat/tv091
-民视,rtmp://9sv2.mine.nu/sat/tv051#rtmp://218.32.29.20/sat/tv051
-华视,rtmp://9sv2.mine.nu/sat/tv111#rtmp://218.32.29.20/sat/tv111
-纬来体育,rtmp://9sv2.mine.nu/sat/tv721#rtmp://218.32.29.20/sat/tv721
-Sport 1,rtmp://9sv2.mine.nu/sat/tv731#rtmp://218.32.29.20/sat/tv731
-Sport 2,rtmp://9sv2.mine.nu/sat/tv741#rtmp://218.32.29.20/sat/tv741
-Sport 3,rtmp://9sv2.mine.nu/sat/md011#rtmp://218.32.29.20/sat/md011
-Sport 4,rtmp://9sv2.mine.nu/sat/md021#rtmp://218.32.29.20/sat/md021
-Sport 5,rtmp://9sv2.mine.nu/sat/md031#rtmp://218.32.29.20/sat/md031
-Sport 6,rtmp://9sv2.mine.nu/sat/md041#rtmp://218.32.29.20/sat/md041
-Sport 7,rtmp://9sv2.mine.nu/sat/md051#rtmp://218.32.29.20/sat/md051
+台视,rtmp://218.32.29.14/sat/tv071#rtmp://218.32.29.20/sat/tv071
+中视,rtmp://218.32.29.14/sat/tv091#rtmp://218.32.29.20/sat/tv091
+民视,rtmp://218.32.29.14/sat/tv051#rtmp://218.32.29.20/sat/tv051
+华视,rtmp://218.32.29.14/sat/tv111#rtmp://218.32.29.20/sat/tv111
+纬来体育,rtmp://218.32.29.14/sat/tv721#rtmp://218.32.29.20/sat/tv721
+Sport 1,rtmp://218.32.29.14/sat/tv731#rtmp://218.32.29.20/sat/tv731
+Sport 2,rtmp://218.32.29.14/sat/tv741#rtmp://218.32.29.20/sat/tv741
+Sport 3,rtmp://218.32.29.14/sat/md011#rtmp://218.32.29.20/sat/md011
+Sport 4,rtmp://218.32.29.14/sat/md021#rtmp://218.32.29.20/sat/md021
+Sport 5,rtmp://218.32.29.14/sat/md031#rtmp://218.32.29.20/sat/md031
+Sport 6,rtmp://218.32.29.14/sat/md041#rtmp://218.32.29.20/sat/md041
+Sport 7,rtmp://218.32.29.14/sat/md051#rtmp://218.32.29.20/sat/md051
 ElevenSport 1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ElevenSport 2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
