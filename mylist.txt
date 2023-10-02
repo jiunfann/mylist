@@ -47,7 +47,12 @@ ASSP 2,http://iptv12k.com:35461/test167/12345/971
 ASSP 3,http://51.79.82.208:16062#http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
 ASSP 4,http://iptv12k.com:35461/test167/12345/969
 ASSP 5,http://iptv12k.com:35461/test167/12345/968
-Asia Game,https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/chunklist_b2596000_slENG.m3u8
+Asia Game 1,https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b2596000_slENG.m3u8
+Asia Game 2,https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3u8
+Asia Game 3,https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b2596000_slENG.m3u8
+Asia Game 4,https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b2596000_slENG.m3u8
+Asia Game 5,https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/chunklist_b2596000_slENG.m3u8
+Asia Game 6,https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/chunklist_b2596000_slENG.m3u8
 $c_start香港$c_end
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8#http://iptv12k.com:35461/live/test167/12345/1021.m3u8
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8#http://cms750.synology.me:8001/bysid/82
