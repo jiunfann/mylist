@@ -27,7 +27,7 @@ Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/24a2313c7ead4b69ae2e5ffad4d6fd7c.t
 Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/3b659e20404548739e053cb501061820.ts
 Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/ff0a3d258cf049e3847b77501988b09b.ts
 Awani,http://198.16.64.10:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
-RTM Sports HD,mitv://ns2.hellotvvod.com:9906/722cdaedbf3c4578bb3cb892d39291f7.ts
+RTM Sports HD,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
 Arena,#http://51.79.82.208:16058#http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 Arena 2,http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 ASSP 1,http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
