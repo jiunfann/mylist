@@ -19,7 +19,7 @@ ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 $c_start新马$c_end
 TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
-TV3,http://51.79.82.208:16003
+TV3,http://51.79.82.208:16003#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1696402547&hmac=0x71303850f6ba947e60b58a0d5408a044e2fd4e0a9a6cb8adf017262412094409
 NTV7,http://51.79.82.208:16004
 TV8,http://51.79.82.208:16005#http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 TV9,http://51.79.82.208:16006
