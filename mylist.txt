@@ -19,10 +19,10 @@ ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 $c_start新马$c_end
 TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
-TV3,http://51.79.82.208:16003#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1696402547&hmac=0x71303850f6ba947e60b58a0d5408a044e2fd4e0a9a6cb8adf017262412094409
-NTV7,http://51.79.82.208:16004
-TV8,http://51.79.82.208:16005#https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8?exp=1696402845&hmac=0xfd4bd68dc25bdb2a5316756f66dea2e234799d941955054ed7498ca0271cc254
-TV9,http://51.79.82.208:16006
+TV3,https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8?exp=1696402547&hmac=0x71303850f6ba947e60b58a0d5408a044e2fd4e0a9a6cb8adf017262412094409
+NTV7,https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8?exp=1696403625&hmac=0x7eb73802c32ae10cafb5fb688fff03e733c36e1a6d3c35d4a9d79df6fe96e48e
+TV8,https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8?exp=1696402845&hmac=0xfd4bd68dc25bdb2a5316756f66dea2e234799d941955054ed7498ca0271cc254
+TV9,https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8?exp=1696403690&hmac=0xc9e221fe67472360d04a792d61f8d2aa87315d1a92fd5b9ff6e17bad87611b93
 Mediacorp CH-5,mitv://ns2.hellotvvod.com:9906/24a2313c7ead4b69ae2e5ffad4d6fd7c.ts
 Mediacorp CH-8,mitv://ns2.hellotvvod.com:9906/3b659e20404548739e053cb501061820.ts
 Mediacorp CH-U,mitv://ns2.hellotvvod.com:9906/ff0a3d258cf049e3847b77501988b09b.ts
