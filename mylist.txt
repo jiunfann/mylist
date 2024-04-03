@@ -27,5 +27,5 @@ TV3,https://live01.gohkh9.eu.org/live.php?id=TV3
 NTV7,https://live01.gohkh9.eu.org/live.php?id=DidikTV
 TV8,https://live01.gohkh9.eu.org/live.php?id=tv8
 TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
-Awani,http://198.16.64.10:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
+Awani,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 RTM Sports HD,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
