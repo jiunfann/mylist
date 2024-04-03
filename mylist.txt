@@ -11,6 +11,18 @@ Sport 4,rtmp://9svd4.mine.nu/sat/md021#rtmp://9svd5.mine.nu/sat/md021
 Sport 5,rtmp://9svd4.mine.nu/sat/md031#rtmp://9svd5.mine.nu/sat/md031
 Sport 6,rtmp://9svd4.mine.nu/sat/md041#rtmp://9svd5.mine.nu/sat/md041
 Sport 7,rtmp://9svd4.mine.nu/sat/md051#rtmp://9svd5.mine.nu/sat/md051
+$c_start台湾新闻$c_end
+中天新闻-YT1,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻2-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+TVBS新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+中视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+民视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+凤凰资讯-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+凤凰资讯-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+台视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+三立新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+凤凰卫视-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 $c_start新马$c_end
 TV1,https://live01.gohkh9.eu.org/live.php?id=TV1
 TV2,https://live01.gohkh9.eu.org/live.php?id=TV2
@@ -20,19 +32,13 @@ TV8,https://live01.gohkh9.eu.org/live.php?id=tv8
 TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
 Awani,http://198.16.64.10:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
 RTM Sports HD,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
-Arena,#http://51.79.82.208:16058#http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
+Arena,http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
 Arena 2,http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
 ASSP 1,http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
 ASSP 2,http://iptv12k.com:35461/test167/12345/971
 ASSP 3,http://51.79.82.208:16062#http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
 ASSP 4,http://iptv12k.com:35461/test167/12345/969
 ASSP 5,http://iptv12k.com:35461/test167/12345/968
-Asia Game 1,https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b2596000_slENG.m3u8
-Asia Game 2,https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3u8
-Asia Game 3,https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b2596000_slENG.m3u8
-Asia Game 4,https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b2596000_slENG.m3u8
-Asia Game 5,https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/chunklist_b2596000_slENG.m3u8
-Asia Game 6,https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/chunklist_b2596000_slENG.m3u8
 $c_start香港$c_end
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8#http://iptv12k.com:35461/live/test167/12345/1021.m3u8
 J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8#http://cms750.synology.me:8001/bysid/82
