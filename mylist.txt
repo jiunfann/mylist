@@ -13,12 +13,9 @@ Sport 6,rtmp://9svd4.mine.nu/sat/md041#rtmp://9svd5.mine.nu/sat/md041
 Sport 7,rtmp://9svd4.mine.nu/sat/md051#rtmp://9svd5.mine.nu/sat/md051
 $c_start台湾新闻$c_end
 中天新闻-YT1,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中天新闻2-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 TVBS新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-TVBS新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 中视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 民视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-凤凰资讯-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 台视新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 三立新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
