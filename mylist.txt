@@ -1,16 +1,16 @@
 $c_start台湾$c_end
-台视,rtmp://9svd2.mine.nu/sat/tv071#rtmp://9svd3.mine.nu/sat/tv071#rtmp://9svd4.mine.nu/sat/tv071#rtmp://9svd5.mine.nu/sat/tv071
-中视,rtmp://9svd2.mine.nu/sat/tv091#rtmp://9svd3.mine.nu/sat/tv091#rtmp://9svd4.mine.nu/sat/tv091#rtmp://9svd5.mine.nu/sat/tv091
-民视,rtmp://9svd2.mine.nu/sat/tv051#rtmp://9svd3.mine.nu/sat/tv051#rtmp://9svd4.mine.nu/sat/tv051#rtmp://9svd5.mine.nu/sat/tv051
-华视,rtmp://9svd2.mine.nu/sat/tv111#rtmp://9svd3.mine.nu/sat/tv111#rtmp://9svd4.mine.nu/sat/tv111#rtmp://9svd5.mine.nu/sat/tv111
-纬来体育,rtmp://9svd2.mine.nu/sat/tv721#rtmp://9svd3.mine.nu/sat/tv721#rtmp://9svd4.mine.nu/sat/tv721#rtmp://9svd5.mine.nu/sat/tv721
-Sport 1,rtmp://9svd2.mine.nu/sat/tv731#rtmp://9svd3.mine.nu/sat/tv731#rtmp://9svd4.mine.nu/sat/tv731#rtmp://9svd5.mine.nu/sat/tv731
-Sport 2,rtmp://9svd2.mine.nu/sat/tv741#rtmp://9svd3.mine.nu/sat/tv741#rtmp://9svd4.mine.nu/sat/tv741#rtmp://9svd5.mine.nu/sat/tv741
-Sport 3,rtmp://9svd2.mine.nu/sat/md011#rtmp://9svd3.mine.nu/sat/md011#rtmp://9svd4.mine.nu/sat/md011#rtmp://9svd5.mine.nu/sat/md011
-Sport 4,rtmp://9svd2.mine.nu/sat/md021#rtmp://9svd3.mine.nu/sat/md021#rtmp://9svd4.mine.nu/sat/md021#rtmp://9svd5.mine.nu/sat/md021
-Sport 5,rtmp://9svd2.mine.nu/sat/md031#rtmp://9svd3.mine.nu/sat/md031#rtmp://9svd4.mine.nu/sat/md031#rtmp://9svd5.mine.nu/sat/md031
-Sport 6,rtmp://9svd2.mine.nu/sat/md041#rtmp://9svd3.mine.nu/sat/md041#rtmp://9svd4.mine.nu/sat/md041#rtmp://9svd5.mine.nu/sat/md041
-Sport 7,rtmp://9svd2.mine.nu/sat/md051#rtmp://9svd3.mine.nu/sat/md051#rtmp://9svd4.mine.nu/sat/md051#rtmp://9svd5.mine.nu/sat/md051
+台视,rtmp://9svd3.mine.nu/sat/tv071#rtmp://9svd4.mine.nu/sat/tv071#rtmp://9svd5.mine.nu/sat/tv071
+中视,rtmp://9svd3.mine.nu/sat/tv091#rtmp://9svd4.mine.nu/sat/tv091#rtmp://9svd5.mine.nu/sat/tv091
+民视,rtmp://9svd3.mine.nu/sat/tv051#rtmp://9svd4.mine.nu/sat/tv051#rtmp://9svd5.mine.nu/sat/tv051
+华视,rtmp://9svd3.mine.nu/sat/tv111#rtmp://9svd4.mine.nu/sat/tv111#rtmp://9svd5.mine.nu/sat/tv111
+纬来体育,rtmp://9svd3.mine.nu/sat/tv721#rtmp://9svd4.mine.nu/sat/tv721#rtmp://9svd5.mine.nu/sat/tv721
+Sport 1,rtmp://9svd3.mine.nu/sat/tv731#rtmp://9svd4.mine.nu/sat/tv731#rtmp://9svd5.mine.nu/sat/tv731
+Sport 2,rtmp://9svd3.mine.nu/sat/tv741#rtmp://9svd4.mine.nu/sat/tv741#rtmp://9svd5.mine.nu/sat/tv741
+Sport 3,rtmp://9svd3.mine.nu/sat/md011#rtmp://9svd4.mine.nu/sat/md011#rtmp://9svd5.mine.nu/sat/md011
+Sport 4,rtmp://9svd3.mine.nu/sat/md021#rtmp://9svd4.mine.nu/sat/md021#rtmp://9svd5.mine.nu/sat/md021
+Sport 5,rtmp://9svd3.mine.nu/sat/md031#rtmp://9svd4.mine.nu/sat/md031#rtmp://9svd5.mine.nu/sat/md031
+Sport 6,rtmp://9svd3.mine.nu/sat/md041#rtmp://9svd4.mine.nu/sat/md041#rtmp://9svd5.mine.nu/sat/md041
+Sport 7,rtmp://9svd3.mine.nu/sat/md051#rtmp://9svd4.mine.nu/sat/md051#rtmp://9svd5.mine.nu/sat/md051
 $c_start台湾新闻$c_end
 中天新闻-YT1,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 TVBS新闻-YT,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
