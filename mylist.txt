@@ -29,4 +29,4 @@ TV8,https://live01.gohkh9.eu.org/live.php?id=tv8
 TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
 Awani,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 RTM Sports HD,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
-Sport 1,https://cors-proxy.elfsight.com/203.205.136.11/play.cbalive.weibisai.com/live/3592171494699061_AiSD.m3u8?txSecret=7065bf8206f5d9e5c9bd4b18aa17013e&txTime=665A80A0
+Sport 1,https://ynzbpull2.nbxhth.cn/live/ballbar_30060.m3u8
