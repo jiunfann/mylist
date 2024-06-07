@@ -34,3 +34,7 @@ Court 1,https://wakacha.github.io/live/c1.m3u8
 Court 2,https://wakacha.github.io/live/c2.m3u8
 Court 3,https://wakacha.github.io/live/c3.m3u8
 Court 4,https://wakacha.github.io/live/c4.m3u8
+ASSP 1,http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
+ASSP 2,http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
+ASSP 3,http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
+ASSP 4,http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
