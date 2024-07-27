@@ -32,3 +32,7 @@ Olympic 2,https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=
 Olympic 3,https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=11
 Olympic 4,https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=11
 Olympic 5,https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=11
+$c_startBadminton$c_end
+Court 1,https://play1nm.hnyongshun.cn/live/ballbar_38540.m3u8
+Court 2,https://play1nm.hnyongshun.cn/live/ballbar_39470.m3u8
+Court 3,https://play1nm.hnyongshun.cn/live/ballbar_21990.m3u8
