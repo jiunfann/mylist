@@ -26,14 +26,3 @@ TV8,https://live01.gohkh9.eu.org/live.php?id=tv8
 TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
 Awani,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 RTM Sports HD,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
-$c_startRTM Olympic$c_end
-Olympic 1,https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
-Olympic 2,https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=11
-Olympic 3,https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=11
-Olympic 4,https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=11
-Olympic 5,https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=11
-Olympic 6,https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
-$c_startBadminton$c_end
-Court 1,https://play1nm.hnyongshun.cn/live/ballbar_38540.m3u8
-Court 2,https://play1nm.hnyongshun.cn/live/ballbar_39470.m3u8
-Court 3,https://play1nm.hnyongshun.cn/live/ballbar_21990.m3u8
