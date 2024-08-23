@@ -27,22 +27,22 @@ TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
 Awani,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 RTM Sports HD,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
 $c_start央视$c_end
-CCTV 1,http://95.179.139.113:5566/itv/wasusyt/6000000001000029752
-CCTV 2,http://95.179.139.113:5566/itv/ystenlive/1000000001000023315
-CCTV 3,http://95.179.139.113:5566/itv/wasusyt/6000000001000022313
-CCTV 4,http://95.179.139.113:5566/itv/bestzb/5000000011000031102
-CCTV 5,http://95.179.139.113:5566/itv/ystenlive/1000000005000025222
-CCTV 5+,http://95.179.139.113:5566/itv/wasusyt/6000000001000015875
-CCTV 6,http://95.179.139.113:5566/itv/ystenlive/1000000001000001737
-CCTV 7,http://95.179.139.113:5566/itv/ystenlive/1000000001000024341
-CCTV 8,http://95.179.139.113:5566/itv/wasusyt/6000000001000001070
-CCTV 9,http://95.179.139.113:5566/itv/ystenlive/1000000001000014583
-CCTV 10,http://95.179.139.113:5566/itv/ystenlive/1000000001000023734
-CCTV 11,http://95.179.139.113:5566/itv/bestzb/5000000011000031106
-CCTV 12,http://95.179.139.113:5566/itv/ystenlive/1000000001000032494
-CCTV 13,http://95.179.139.113:5566/itv/bestzb/5000000011000031108
-CCTV 14,http://95.179.139.113:5566/itv/ystenlive/1000000001000008170
-CCTV 15,http://95.179.139.113:5566/itv/bestzb/5000000011000031109
+CCTV-1,http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-2,http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-3,http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-4,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-5+,http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-6,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-7,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-8,http://58.19.38.162:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-9,http://58.19.38.162:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-10,http://58.19.38.162:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-11,http://58.19.38.162:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-12,http://58.19.38.162:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-13,http://58.19.38.162:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-14,http://58.19.38.162:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
+CCTV-15,http://58.19.38.162:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CCTV 16,http://95.179.139.113:5566/itv/ystenlive/1000000006000233002
 CCTV 17,http://95.179.139.113:5566/itv/ystenlive/1000000006000268004
 $c_start卫视$c_end
