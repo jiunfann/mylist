@@ -3,6 +3,8 @@ $c_start台湾$c_end
 中视,rtmp://9svd3.mine.nu/sat/tv091#rtmp://9svd4.mine.nu/sat/tv091#rtmp://9svd5.mine.nu/sat/tv091
 民视,rtmp://9svd3.mine.nu/sat/tv051#rtmp://9svd4.mine.nu/sat/tv051#rtmp://9svd5.mine.nu/sat/tv051
 华视,rtmp://9svd3.mine.nu/sat/tv111#rtmp://9svd4.mine.nu/sat/tv111#rtmp://9svd5.mine.nu/sat/tv111
+东森超视,rtmp://9svd3.mine.nu/sat/tv331#rtmp://9svd4.mine.nu/sat/tv331#rtmp://9svd5.mine.nu/sat/tv331
+MOMO综合,rtmp://9svd3.mine.nu/sat/tv761#rtmp://9svd4.mine.nu/sat/tv761#rtmp://9svd5.mine.nu/sat/tv761
 纬来育乐,rtmp://9svd3.mine.nu/sat/tv701#rtmp://9svd4.mine.nu/sat/tv701#rtmp://9svd5.mine.nu/sat/tv701
 纬来体育,rtmp://9svd3.mine.nu/sat/tv721#rtmp://9svd4.mine.nu/sat/tv721#rtmp://9svd5.mine.nu/sat/tv721
 Sport 1,rtmp://9svd3.mine.nu/sat/tv731#rtmp://9svd4.mine.nu/sat/tv731#rtmp://9svd5.mine.nu/sat/tv731
@@ -61,4 +63,5 @@ $c_start卫视$c_end
 陕西卫视,http://www.baopiqi.top:4022/udp/239.45.1.232:5140
 西藏卫视,http://www.baopiqi.top:4022/udp/239.45.1.231:5140
 新疆卫视,http://www.baopiqi.top:4022/udp/239.45.1.116:5140
+
 
